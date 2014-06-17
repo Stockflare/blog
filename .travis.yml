@@ -1,0 +1,20 @@
+language: ruby
+rvm:
+- ruby-head
+script: jekyll build --destination out
+notifications:
+  flowdock:
+    secure:D3HBXhmAO8nZ/5fFyC3TB1sqYN3II5w0VWEoG0pYylcuy4ppo42LBXEkCAY8MFW5BkJ5Fb2933yM6LbocHA50sfNPBLWmT+PI5FdKl+m3dQaYX5kGerqbpCHK+/4/p497bbimhZ24lLwPnQcj9gwpphTUm9h8AIN5C2N5tzgRQg=
+deploy:
+- provider: s3
+  access_key_id: AKIAJIJB673E3EF557HQ
+  bucket: blog.stockflare.com
+  skip_cleanup: true
+  local-dir: out
+  edge: true
+  region: us-east-1
+  endpoint: s3-us-east-1.amazonaws.com
+  on:
+    branch: master
+  secret_access_key:
+    secure:hU9rq+GbMIddeJm9AAZJ27YbG61ghSoKN19OFUYl9eoXKWnczwk2lv1n7jyCl2NMPGZUrR2aEwmvVXXdQAey5/4BOwBebhFlA6ji5tmFlynLkG7ZvBPdYMHkWgE63sRkdnebbSVsVdlsj5/e3YBcjLOqAqoU5/Bd/QvNZ0mQws0=
