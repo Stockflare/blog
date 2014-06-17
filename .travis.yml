@@ -1,6 +1,7 @@
 language: ruby
 rvm:
 - ruby-head
+before_script: gem install jekyll
 script: jekyll build --destination out
 notifications:
   flowdock:
