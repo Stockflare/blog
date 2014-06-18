@@ -1,24 +1,32 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Take Care of Yourself!"
 date:   2014-06-17 14:04:17
-categories: jekyll update
+categories: blog
+author: Shane Leonard
+image: http://media.giphy.com/media/nOqqmqx3Gwucw/giphy.gif
 ---
 
-You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
+I've worked for large Wall Street firms since 1996. So I'm pretty immune to the outrage of friends when another bank is fined a few billions of dollars. Face up to it. Money just doesn't have morals.
 
-Jekyll also offers powerful support for code snippets:
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+The people who look after our stock portfolios make money from trades. They love holding onto our money, regardless of what they do with it. Bad deal, good deal, they get their large pay cheque.
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
+
+Many of us give up, some look for low cost alternatives to the expensive pension funds. Others decide to do it themselves. Bravo! 
+
+
+But how do you manage your portfolio yourself? Where's there good information, clear advise? You can get a share price or a news story on the web. You can watch endless commentators disagree about any stock price. But how do you decide what to buy? How do you decide when to sell?
+
+
+That's what we are launching at Stockflare. A service that helps you make those decisions. You'll know instantly if you want to buy a stock. And you'll know if you want to sell one you already own.
+
+
+When you cut out the noise and the jargon, investing in stocks is easy. 
+
+
+Leave us your email address, and get ready to start enjoying investing. Discover great companies you've never heard off. And feel confidence that taking care of yourself, is going to be very rewarding.
+
 
 [jekyll-gh]: https://github.com/jekyll/jekyll
 [jekyll]:    http://jekyllrb.com

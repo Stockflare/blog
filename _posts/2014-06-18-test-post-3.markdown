@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Rawr I'm a Tiger!"
+date:   2014-06-17 14:04:17
+categories: blog
+author: Jonathan Kelley
+image: http://cdn.screenrant.com/wp-content/uploads/22-Jump-Street-Hill-Tatum-Cube.jpg
+---
+
+I've worked for large Wall Street firms since 1996. So I'm pretty immune to the outrage of friends when another bank is fined a few billions of dollars. Face up to it. Money just doesn't have morals.
+
+The people who look after our stock portfolios make money from trades. They love holding onto our money, regardless of what they do with it. Bad deal, good deal, they get their large pay cheque.
+
+Many of us give up, some look for low cost alternatives to the expensive pension funds. Others decide to do it themselves. Bravo! 
+
+But how do you manage your portfolio yourself? Where's there good information, clear advise? You can get a share price or a news story on the web. You can watch endless commentators disagree about any stock price. But how do you decide what to buy? How do you decide when to sell?
+
+That's what we are launching at Stockflare. A service that helps you make those decisions. You'll know instantly if you want to buy a stock. And you'll know if you want to sell one you already own.
+
+When you cut out the noise and the jargon, investing in stocks is easy. 
+
+Leave us your email address, and get ready to start enjoying investing. Discover great companies you've never heard off. And feel confidence that taking care of yourself, is going to be very rewarding.
+
+
+[jekyll-gh]: https://github.com/jekyll/jekyll
+[jekyll]:    http://jekyllrb.com

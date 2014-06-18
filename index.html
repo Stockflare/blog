@@ -2,19 +2,98 @@
 layout: default
 ---
 
-<div class="home">
+<div class="jumbrotron-background">
 
-  <h1>Posts</h1>
+<div class="container main">
 
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </li>
-    {% endfor %}
-  </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+      <div class="row">
+        <div class="col-md-12"><img src="img/logo.png"/></div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-12">
+          <h1>The easy way to find new stock ideas</h1>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-12">
+          <h4>Making Wall Street simple. Giving you the power </br> to improve your finance, with smarter decisons.</h4>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-12">
+          <!-- Begin MailChimp Signup Form -->
+
+            <style type="text/css">
+              #mc_embed_signup{clear:left; font:14px Helvetica,Arial,sans-serif; }
+              /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+                 We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+            </style>
+
+            <div id="mc_embed_signup">
+            <form action="http://stockflare.us8.list-manage1.com/subscribe/post?u=3b6b489888c2fa48764d55ba8&amp;id=f30965766a" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+              
+              <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Want an Invite? Enter your email" required>
+                <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                <div style="position: absolute; left: -5000px;"><input type="text" name="b_3b6b489888c2fa48764d55ba8_f30965766a" tabindex="-1" value=""></div>
+                <input type="submit" value="Request Invite" name="subscribe" id="mc-embedded-subscribe" class="btn btn-primary">
+            </form>
+            </div>
+
+            <!--End mc_embed_signup-->
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-12">
+          <img src="img/scrolldown.png"/>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <div class="blog-posts">
+
+  <div class="container">
+      <div class="row">
+        <div class="col-md-10 col-md-offset-1">
+          <h2>Our Blog of Fantasticness</h2>
+          <p>Woo look at our amazing blog of beautiful posts and things!</p>
+          <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+        </div>
+      </div>
+
+    <div class="row">
+      <div class="col-md-10 col-md-offset-1">
+
+
+          {% for post in site.posts %}
+          <div class="row post" itemscope="" itemtype="http://schema.org/BlogPosting">
+
+            <div class="col-md-4">
+              <div class="img-placeholder"><img src="{{ post.image }}"/></div>
+            </div>
+
+            <div class="col-md-8">
+                <h3 itemprop="name headline"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+                <p class="post-date" itemprop="datePublished">By {{ post.author }} on {{ post.date | date: "%b %-d, %Y" }}</p>
+                <p class="post-content" itemprop="articleBody">{{ post.content | strip_html | truncatewords:55}}</p>
+                <a href="{{ post.url }}"><button type="button" class="btn btn-info">View Full Story</button></a>
+            </div>
+
+          </div>
+          {% endfor %}
+         
+
+      </div>
+    </div>
 
 </div>
+
+
+
