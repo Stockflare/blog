@@ -5,10 +5,10 @@ before_script: gem install jekyll
 script: jekyll build --destination out
 notifications:
   flowdock:
-    secure:D3HBXhmAO8nZ/5fFyC3TB1sqYN3II5w0VWEoG0pYylcuy4ppo42LBXEkCAY8MFW5BkJ5Fb2933yM6LbocHA50sfNPBLWmT+PI5FdKl+m3dQaYX5kGerqbpCHK+/4/p497bbimhZ24lLwPnQcj9gwpphTUm9h8AIN5C2N5tzgRQg=
+    secure: "Jxa0H+CH4MN5eN2mdU3996A1QKHAXOPYEC36a3XX8jwci0zw4gHTeHQNhPPsGpU2BoUf6eLBa09HPIKee/3pTeqV9hXhnWObPS+jI33IZDY0baNHRqC7hmNZpOHJraPKZQlvA+a+i9vx5P28T639hd+oAtD8Gmjh9DamoBYsFEA="
 deploy:
-- provider: s3
-  access_key_id: AKIAJIJB673E3EF557HQ
+  provider: s3
+  access_key_id: AKIAJVTGGFJZUS6TBIMQ
   bucket: blog.stockflare.com
   skip_cleanup: true
   local-dir: out
@@ -18,4 +18,4 @@ deploy:
   on:
     branch: master
   secret_access_key:
-    secure:hU9rq+GbMIddeJm9AAZJ27YbG61ghSoKN19OFUYl9eoXKWnczwk2lv1n7jyCl2NMPGZUrR2aEwmvVXXdQAey5/4BOwBebhFlA6ji5tmFlynLkG7ZvBPdYMHkWgE63sRkdnebbSVsVdlsj5/e3YBcjLOqAqoU5/Bd/QvNZ0mQws0=
+    secure: "Wqq8S6cIZRH8zv5K+vMx0bGbdO0dsauafCNUv+nWWMXQIbRjS+5y+g4NoXxAV165KSAhvbb+nKhrV7u3QYVlMozOwMMKSnZSxTVmIf0bK7inIoYWR2WtmC/MwPtW0bZcraO6q5vEEKTRy/tDHnUcGx3/XOa9bqGZrJ8fVnPtD3Q="
