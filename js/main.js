@@ -1,5 +1,6 @@
 $(document).ready(function() {
   $('#scroll-down').click(function(){
-    $("html, body").animate({ scrollTop: 530 }, 600);
-  });	
+    height = $('.jumbrotron-background').height() - 100;
+    $("html, body").animate({ scrollTop: height }, 600);
+  });
 });
