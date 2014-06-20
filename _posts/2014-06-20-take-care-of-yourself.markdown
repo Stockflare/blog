@@ -22,7 +22,9 @@ Leave us your [email address](http://www.blog.stockflare.com), and get ready to 
 Drop me an message [@shaneleonard121](https://twitter.com/shaneleonard121) or the full team [@stockflare](https://twitter.com/stockflare).
 
 Shane Leonard
+
 Managing Director
+
 Stockflare
 
 
