@@ -1,7 +1,7 @@
 language: ruby
 rvm:
 - ruby-head
-before_script: gem install jekyll
+before_script: gem install jekyll -v 2.0.3
 script: jekyll build --destination out
 notifications:
   flowdock:
