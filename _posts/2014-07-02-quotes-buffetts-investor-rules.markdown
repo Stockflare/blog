@@ -8,11 +8,8 @@ image: /img/quote-buffett-rules.jpg
 ---
 
 From the Sage of Omaha:
-
 Rule no.1: Never lose money.
-
 Rule no.2: Don't forget Rule no.1.
-
 
 Do you have a favourite quote from a famous investor or stock market pundit? We'd love to hear it.
 
