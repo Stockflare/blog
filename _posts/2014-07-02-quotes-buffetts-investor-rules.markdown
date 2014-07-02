@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Quotes: Buffett's Rules for Investors"
-date:   2014-07-2 10:49:02
-categories: quote
+title: "Quotes: Buffett's Rules for Investors"
+date: 2014-07-2 10:49:02
+categories: blog
 author: Shane Leonard
 image: /img/quote-buffett-rules.jpg
 ---
@@ -16,3 +16,6 @@ Shane Leonard
 Managing Director
 
 Stockflare
+
+[jekyll-gh]: https://github.com/jekyll/jekyll
+[jekyll]:    http://jekyllrb.com
