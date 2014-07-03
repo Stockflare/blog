@@ -7,10 +7,10 @@ author: Shane Leonard
 image: /img/quote-buffett-rules.jpg
 ---
 
-From the Sage of Omaha
+From the Sage of Omaha.
 
-Rule One: Never Lose Money
-Rule Two: Don't Forget Rule One
+Rule One: Never Lose Money.
+Rule Two: Don't Forget Rule One.
 
 Do you have a favourite quote from a famous investor or stock market pundit? We'd love to hear it.
 
