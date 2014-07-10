@@ -17,8 +17,6 @@ But it is not easy:
 * News stories from CNBC & CNN Money tell you what a stockbroker or investor thinks. But why should you care what he thinks? Is he impartial? Or any good at picking stocks?
 * And sometimes the data is plain wrong. Like when Google Finance showed its own stock down 50% the day of its 2-for-1 stock split.
 
-![alt text](/img/screenshot-goog-april.png "GOOG on 3rd April 2014")
-
 That's all about to change. 
 
 At Stockflare, we'll give you the tools to make better decisions. You decide *what* to buy and *when* to sell. Stockflare helps you decide quickly and with confidence.
