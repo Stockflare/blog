@@ -13,9 +13,9 @@ So it's tragic that few people tell me their broker gives them great stock ideas
 
 But it is not easy:
 
-+ Yahoo! & Google Finance give you raw data. With no explanation of the figures. For example, even if you know what *Beta* is, why should you care about it?
-+ News stories from CNBC & CNN Money tell you what a stockbroker or investor thinks. But why should you care what he thinks? Is he impartial? Or any good at picking stocks?
-+ And sometimes the data is plain wrong. Like when Google Finance showed its own stock down 50% the day of its 2-for-1 stock split.
+\* Yahoo! & Google Finance give you raw data. With no explanation of the figures. For example, even if you know what *Beta* is, why should you care about it?
+\* News stories from CNBC & CNN Money tell you what a stockbroker or investor thinks. But why should you care what he thinks? Is he impartial? Or any good at picking stocks?
+\* And sometimes the data is plain wrong. Like when Google Finance showed its own stock down 50% the day of its 2-for-1 stock split.
 
 That's all about to change. 
 
