@@ -1,5 +1,5 @@
 /*!
- * Stockflare's Custom CSS 
+ * Stockflare's Custom CSS
  * Copyright 2011-2014 Intsense, Ltd.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
@@ -18,7 +18,7 @@ body
 
 .jumbrotron-background
 {
-	background: url(../img/bg.png) no-repeat center center fixed; 
+	background: url(../img/bg.png) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -34,7 +34,7 @@ body
 .img-placeholder
 {
 	width:100%;
-	
+
 	height:230px;
 	overflow:hidden;
 	display:block;
@@ -60,12 +60,6 @@ h4
 	font-weight: 300;
 	line-height: 32px;
 		letter-spacing: 0.02em;
-}
-
-
-ul
-{
-	list-style: none;
 }
 
 h1, h4
@@ -152,7 +146,7 @@ p
 
 .post .btn:hover
 {
-	background-color:#2856F3;	
+	background-color:#2856F3;
 }
 
 .post-date, .post-author, .post-content
@@ -173,11 +167,11 @@ p
 {
 	padding-bottom:15px;
 }
-/* 
+/*
 
  Buttons
-	
- * Clearing .btn Styles 
+
+ * Clearing .btn Styles
  * Removing Background Images
  * Removing border
  * Removing box-shadow inset
@@ -208,8 +202,8 @@ p
 
 
 
-/* 
- 
+/*
+
  <p> Tag Margins
 
  * Removing the 1em Margin Bottom on P tags.
@@ -221,8 +215,8 @@ p
 	margin-bottom:0px;
 }
 
-/* 
- 
+/*
+
  INNER BLOG POST STYLES
 
 */
@@ -245,8 +239,8 @@ p
 	margin:20px 0px;
 }
 
-.post-content p
-{
+.post-content p,
+.post-content ul li {
 	color: #3a383e;
 	font-size: 1.3em;
 	line-height: 1.4;
@@ -336,5 +330,3 @@ h5
 	}
 
 }
-
-
