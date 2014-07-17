@@ -77,7 +77,7 @@ layout: default
                 <h3 itemprop="name headline"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
                 <p class="post-date" itemprop="datePublished">By {{ post.author }} on {{ post.date | date: "%b %-d, %Y" }}</p>
                 <p class="post-content" itemprop="articleBody">{{ post.content | strip_html | truncatewords:55}}</p>
-                <a href="{{ post.url }}"><button type="button" class="btn btn-info">View Full Story</button></a>
+                <a class="btn btn-info" href="{{ post.url }}">View Full Story</a>
             </div>
 
           </div>
