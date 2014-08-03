@@ -1,17 +1,17 @@
 ---
 layout: post
 title:  "Quotes: Markets Are Never Wrong"
-date:   2014-08-02 21:53:36
+date:   2014-08-02 22:53:36
 categories: quote
 author: Shane Leonard
 image: /img/quote-livermore-never-wrong.jpg
 ---
 
-From [Jesse Livermore](http://en.wikipedia.org/wiki/Jesse_Lauriston_Livermore), the Great Bear of Wall Street.
+From [Jesse Livermore](http://en.wikipedia.org/wiki/Jesse_Lauriston_Livermore) aka _the Great Bear of Wall Street_.
 
 "Markets are never wrong, opinions are."
 
-Listen to the opinions of brokers, if you wish, but don't ignore what the market's price is telling you!
+Listen to the opinions of brokers if you wish, but don't ignore what the market's price is telling you!
 
 Do you have a favourite quote from a famous investor or stock market pundit? We'd love to hear it.
 
