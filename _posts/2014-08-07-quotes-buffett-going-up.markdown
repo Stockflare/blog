@@ -11,7 +11,7 @@ From Warren Buffett
 
 "The dumbest reason in the world to buy a stock is because it's going up."
 
-On its own, momentum investing and technical analysis are absurd?
+On their own, momentum investing and technical analysis are absurd?
 
 Do you have a favourite quote from a famous investor or stock market pundit? We'd love to hear it.
 
