@@ -341,11 +341,50 @@ p
 
 }
 
-.site-footer
-{
-	padding:23px 0px 4px 0px;
+footer {
+  display: block;
+  margin-top: 40px;
+  padding: 40px 0;
+  background: white;
 }
 
+footer h6 {
+  font-weight: normal;
+  font-size: 13px;
+  color: #b7b7b7;
+  margin: 0;
+}
+
+footer .spaced {
+  margin-top: 20px;
+}
+
+footer .spaced:first-child {
+  margin-top: 0;
+}
+
+footer .links {
+  list-style: none;
+  padding: 0;
+}
+
+footer .links li {
+  float: left;
+  margin-left: 20px;
+}
+
+footer .links li a
+{
+  color:#428bca
+}
+
+footer .links li:first-child {
+  margin-left: 0;
+}
+
+footer .reuters {
+  text-align: right;
+}
 .rss
 {
 	text-align: center;
