@@ -443,6 +443,13 @@ footer .links li:first-child {
 footer .reuters {
   text-align: right;
 }
+
+/*@media (min-width: 1px) and (max-width: 767px) {
+	footer .reuters {
+		display: none;
+	}
+}*/
+
 .rss
 {
 	text-align: center;
