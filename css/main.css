@@ -38,15 +38,46 @@ body
   .logo-image { background-image: url(../img/logo@2x.png); }
 }
 
-.jumbrotron-background
+.large
 {
-	background: url(../img/bg.png) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  padding-top:30px;
+	font-size:160px !important;
+	color:#fff;
+}
 
+.jumbotron-custom
+{
+	width:100%;
+	padding:90px 0px;
+	background:#4860EA
+}
+
+.jumbotron-custom h1
+{
+	font-family: HelveticaNeue-Light;
+	font-size: 32px;
+	color: #FFFFFF;
+	letter-spacing: 0px;
+	/* Welcome to our Team : */
+	padding-bottom:30px;
+	margin:0px;
+}
+
+.jumbotron-custom p
+{
+	font-family: HelveticaNeue;
+	font-size: 18px;
+	color: #FFFFFF;
+	line-height: 34px;
+	letter-spacing: 0px;
+	/* Here we talk about l: */
+	opacity:0.6;
+}
+
+@media (max-width:520px) {
+	.jumbotron-custom .large
+	{
+		display:none;
+	}
 }
 
 .navbar-default {
