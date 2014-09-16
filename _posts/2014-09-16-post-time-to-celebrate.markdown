@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Time To Celebrate"
-date:   2014-09-12 10:30:00
+date:   2014-09-16 10:30:00
 categories: post
 author: Shane Leonard
 image: http://media.giphy.com/media/vXFb9HdE4LXaw/giphy.gif
@@ -15,7 +15,7 @@ He did it by investing in stocks. No fancy mergers or acquisitions. No controlli
 
 Regardless of your favourite investing billionaire, be they Buffett, Icahn, Soros, or even Shelby Davis, they all follow some simple rules. 
 
-At Stockflare, we try to condense the myriad of rules into a simple metric: is a stock a 5-star stock or not. Any stock that is __Cheap__, ___Grows Fast___, is __Liked__ by the Professionals, __Profitable__, and __Paying Dividends___ gets 5 stars from Stockflare.
+At [Stockflare](), we try to condense the myriad of rules into a simple metric: is a stock a 5-star stock or not. Any stock that is __Cheap__, ___Grows Fast___, is __Liked__ by the Professionals, __Profitable__, and __Paying Dividends___ gets 5 stars from Stockflare.
 
 We buy our data from the leading financial data company in the world, Thomson Reuters. Then we run our analysis on the numbers, and deliver it to you. 5 star ratings is just one of the ways we simply the world of investing.
 
