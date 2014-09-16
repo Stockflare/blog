@@ -7,11 +7,11 @@ author: Shane Leonard
 image: /img/quote-barber-dependents.jpg
 ---
 
-From [Daniel S. Greenberg](http://en.wikipedia.org/wiki/Daniel_S._Greenberg), a journalist wit.
+From [Daniel S. Greenberg](http://en.wikipedia.org/wiki/Daniel_S._Greenberg), a journalistic wit.
 
 "Don't ask the barber whether you need a haircut."
 
-And don't ask a broker should you do a trade!
+And don't ask a broker should you do a trade.
 
 Do you have a favourite quote from a famous investor or stock market pundit? We'd love to hear it.
 
