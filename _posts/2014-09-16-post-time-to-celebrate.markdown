@@ -15,13 +15,13 @@ He did it by investing in stocks. No fancy mergers or acquisitions. No controlli
 
 Regardless of your favourite investing billionaire, be they Buffett, Icahn, Soros, or even Shelby Davis, they all follow some simple rules. 
 
-At [Stockflare](), we try to condense the myriad of rules into a simple metric: is a stock a 5-star stock or not. Any stock that is __Cheap__, ___Grows Fast___, is __Liked__ by the Professionals, __Profitable__, and __Paying Dividends___ gets 5 stars from Stockflare.
+At [Stockflare](), we try to condense the myriad of rules into a simple metric: is a stock a 5-star stock or not. Any stock that is __Cheap__, __Grows Fast__, is __Liked__ by the Professionals, __Profitable__, and __Paying Dividends__ gets 5 stars from Stockflare.
 
-We buy our data from the leading financial data company in the world, Thomson Reuters. Then we run our analysis on the numbers, and deliver it to you. 5 star ratings is just one of the ways we simply the world of investing.
+We buy our data from the leading financial data company in the world, Thomson Reuters. Then we run our analysis on the numbers, and deliver it to you. 5 star ratings is just one of the ways we simplify the world of investing.
 
-All the detail behind our analysis is there too, so you can check the figures for yourself. And you can see how any stock compares to its competitors. All the key facts and forecasts for any stock are yours. 
+All the detail behind our analysis is there too, so you can check the figures for yourself. All the key facts and forecasts for any stock are yours. 
 
-Investing just got a lot easier.
+Investing just got easier.
 
 The question now, is what will you do? Are you able to beat Shelby's record?
 
