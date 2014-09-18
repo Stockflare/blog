@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Quotes: Independent Views"
+title:  "Quotes: Noisy Insider"
 date:   2014-09-18 14:11:12
 categories: quote
 author: Shane Leonard
