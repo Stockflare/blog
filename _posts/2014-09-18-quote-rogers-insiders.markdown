@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Quotes: Noisy Insider"
-date:   2014-09-18 14:11:12
+date:   2014-09-18 14:36:12
 categories: quote
 author: Shane Leonard
 image: /img/quote-rogers-insiders.jpg
