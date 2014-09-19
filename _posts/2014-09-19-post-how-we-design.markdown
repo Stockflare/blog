@@ -4,7 +4,7 @@ title:  "How We Design"
 date:   2014-09-19 12:45:00
 categories: post
 author: Jonathan Kelley
-image: /img/post-its-arrived.jpg
+image: http://media.giphy.com/media/5xtDarvPWnLdVDFDCtG/giphy.gif
 ---
 
 Every finance site looks the same. Data, charts, news feeds, adverts from online brokers. It's noisy, overloading and discouraging. Especially to a novice. People give up.
