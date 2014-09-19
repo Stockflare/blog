@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How We Design"
-date:   2014-09-16 12:45:00
+date:   2014-09-19 12:45:00
 categories: post
 author: Jonathan Kelley
 image: /img/post-its-arrived.jpg
