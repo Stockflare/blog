@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Quotes: Making Bubbles"
-date:   2014-09-22 16:33:52
+date:   2014-09-22 16:33:53
 categories: quote
 author: Shane Leonard
 image: /img/quote-soros-bubbles.jpg
