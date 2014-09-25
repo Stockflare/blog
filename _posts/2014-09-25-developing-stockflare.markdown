@@ -13,8 +13,6 @@ We recently released Stockflare to our friends & family, and have received lots 
 
 We decided at the earliest stage, to embark on a mission to make investing and understanding complex stock data accessible to everybody, not just the Canary Wharf bank & Wall Street broker. We provide an at-a-glance 5-star rating for every stock for "novices", and an advanced complete breakdown of our ratings, for users that require a deeper understanding.
 
-![Stockflare](/images/posts/stockflare.png)
-
 ## So what technology do you use?
 Stockflare takes advantage of a number of AWS Cloudformations to deploy our architecture, using a private VPC and logically isolated servers. All of our technology stack is deployed via Cloudformations, (isn't automation beautiful?) We plan on releasing all of our Cloudformations to the public in the future.
 
