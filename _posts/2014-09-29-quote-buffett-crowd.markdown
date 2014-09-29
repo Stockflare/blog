@@ -11,7 +11,7 @@ From Warren Buffett.
 
 "You can't buy what is popular and do well."
 
-The popularity content is run by the large mutual funds, so all we need to do is think independently?
+The popularity contest is run by the large mutual funds, so all we need to do is think independently, sensibly?
 
 Do you have a favourite quote from a famous investor or stock market pundit? We'd love to hear it.
 
