@@ -7,11 +7,11 @@ author: Shane Leonard
 image: /img/quote-mgm-forecasts.jpg
 ---
 
-From the [Sam Goldwyn](http://en.wikipedia.org/wiki/Samuel_Goldwyn), one of the most successful executives in Hollywood.
+From [Sam Goldwyn](http://en.wikipedia.org/wiki/Samuel_Goldwyn), one of the most successful executives in Hollywood.
 
 "Never make forecasts, especially about the future."
 
-There's no data on the future, so our forecasts risk being wrong. So it's better to think about the probability of different outcomes, both good ones and bad!
+There's no data on the future, so our forecasts risk being wrong. So it's better to think about the different potential outcomes, both good ones and bad!
 
 Do you have a favourite quote from a famous investor or stock market pundit? We'd love to hear it.
 
