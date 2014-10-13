@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Quotes: Different Times"
+title:  "Quotes: Forecasting Greats"
 date:   2014-10-13 12:16:49
 categories: quote
 author: Shane Leonard
