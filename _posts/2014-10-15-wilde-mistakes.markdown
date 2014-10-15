@@ -11,7 +11,7 @@ From [Oscar Wilde](http://en.wikipedia.org/wiki/Oscar_Wilde), playright and poet
 
 "Experience is simply the name we give our mistakes."
 
-Investing is like many things in live, you can't really learn it by reading. Need to act, even if the results are painful.
+Investing is like many things in life, you can't really learn it by reading. Need to act, even if some of the results are painful.
 
 Do you have a favourite quote from a famous investor or stock market pundit? We'd love to hear it.
 
