@@ -7,7 +7,7 @@ author: Shane Leonard
 image: /img/quote-wilde-mistakes.jpg
 ---
 
-From [Oscar Wilde](http://en.wikipedia.org/wiki/Oscar_Wilde), playright and poet, general wit.
+From [Oscar Wilde](http://en.wikipedia.org/wiki/Oscar_Wilde), playwright and poet, general wit.
 
 "Experience is simply the name we give our mistakes."
 
