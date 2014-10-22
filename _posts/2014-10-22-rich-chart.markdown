@@ -11,7 +11,7 @@ From [Rene Rivkin](http://en.wikipedia.org/wiki/Rene_Rivkin), Australian stockbr
 
 I have never met a rich chartist.
 
-Investing isn't scientific, it's sociologicial. So charts alone are a poor tool.
+Investing isn't scientific, it's sociological. So charts alone are a poor tool.
 
 Do you have a favourite quote from a famous investor or stock market pundit? We'd love to hear it.
 
