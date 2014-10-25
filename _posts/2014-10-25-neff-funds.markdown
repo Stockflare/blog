@@ -11,7 +11,7 @@ From [John Neff](http://en.wikipedia.org/wiki/John_Neff), who's Windsor fund bea
 
 People who own more than 2 mutual funds are over-diversified. 
 
-The funds themselves are supposed to do the diversification for you, so why buy more than 2! A stock market fund and a bond one? 
+The funds themselves are supposed to do the diversification for you, so why buy more than 2. A stock market fund and a bond one? 
 
 Do you have a favourite quote from a famous investor or stock market pundit? We'd love to hear it.
 
