@@ -22,9 +22,8 @@ We've introduced an alerts section. Users who have a watchlist can see what crit
 
 Finally, you'll see major speed improvements and various bug fixes throughout the website, we've documented some of the other changes we've made below.
 
-# 0.8.20
+## 0.8.20
 
---
 * We heard you like graphs? We've now implemented 1 Week, 1 Month and 3 Month week-by-week charts.
 * We've re-worked the inner stock pages so that they now look shinier and more like the rest of the website.
 * Speed? Speed is good. The application now caches stocks that you browse, meaning you never have to wait for subsequent page loads.
