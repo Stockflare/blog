@@ -13,7 +13,7 @@ For the last couple of months I have been working on getting to the bottom of pr
 
 ## Introduction
 
-The site itself is [Stockflare](https://stockflare.com/).  It is a stock analysis web site where we process market data and rate all stocks worldwide one to five stars (five being the best).
+The site itself is [Stockflare](https://stockflare.com/).  It is a stock analysis web site where we process market data and rate all stocks worldwide one to five stars (five being the best). 
 
 It is hosted on an Amazon S3 Bucket which essentially serves just the index.html, which in turn loads the UI Javascript (Backbone and Marionette).  The Backbone router then takes over and renders the appropriate page.
 
