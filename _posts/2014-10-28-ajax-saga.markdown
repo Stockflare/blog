@@ -41,7 +41,9 @@ And return the appropriate rendered HTML;
 Finally create a sitemap that contains the links to the pages we want to crawl.
 
 And all will be well.
+
 ## Our initial strategy
+
 We created a small Node.js service using Phantom.js that would take the following:
 
 `https://seo.stockflare.com/?_escaped_fragment_=/stocks/WPP.L`
