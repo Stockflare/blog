@@ -26,7 +26,7 @@ This ends up at the S3 Bucket as
 
 It is the S3 routing rules that hash the path.
 
-The browser is served index.html and the Backbone router deals with the hash path.  Backbone also has Browser pushState enabled so the user sees a nice pretty path in their browser.
+The browser is served index.html and the Backbone router deals with the hash path.  Backbone also has Browser pushState enabled so the user sees a nice pretty path in their browser. 
 
 ## escaped_fragment
 
