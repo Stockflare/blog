@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Quotes: Concentrated Warren"
+title:  "Quotes: Irrationally Insolvent"
 date:   2014-11-12 17:43:45
 categories: quote
 author: Shane Leonard
