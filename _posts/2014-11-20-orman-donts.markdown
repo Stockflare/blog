@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Quotes: Nothing Better"
-date:   2014-11-17 22:15:29
+date:   2014-11-20 22:15:29
 categories: quote
 author: Shane Leonard
 image: /img/quote-orman-donts.jpg
