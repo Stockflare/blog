@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Investing for Beginners"
-date:   2014-1-25 15:45:06
+date:   2014-11-25 15:45:06
 categories: post
 author: Shane Leonard
 image: http://i.imgur.com/ndb5lgp.gif
@@ -19,11 +19,11 @@ These tutorials are not infomercials. But an insight into how we invest ourselve
 
 Already, we have 10 tutorials up on [YouTube](https://www.youtube.com/channel/UCJh-VnCYJojTaCeSa69GPTg/videos) and we've already had 8,000 views. Here's an example of one such video, where we explain who are the different stock market experts you should follow.
 
-![Learning From The Expert](https://www.youtube.com/watch?v=N1KywUtYegc)
+<iframe width="700" height="525" src="//www.youtube.com/embed/N1KywUtYegc" frameborder="0" allowfullscreen></iframe>
 
 Every tutorial has a slide presentation. They are at [SlideShare](http://www.slideshare.net/shaneleonard121) and you can download them if you need to. Here's a link to a presentation that helps you work out which sort of investor you are.
 
-![What Sort Of Investor Are You?](http://www.slideshare.net/shaneleonard121/b4-what-sort-of-investor-are-you-website)
+<iframe src="//www.slideshare.net/slideshow/embed_code/41128680" width="702" height="590" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 But this is just the start. We are refining these tutorials and expanding the list. So if you have a tutorial you'd like us to record, or want to feature in one of our tutorials, please contact us. We'd love to hear what you think.
 
