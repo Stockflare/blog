@@ -9,7 +9,7 @@ image: /img/quote-munger-math.jpg
 
 From [Charlie Munger](http://en.wikipedia.org/wiki/Charlie_Munger) investing soulmate of Warren Buffett.
 
-Without numerical fluency, in the part of life most of us inhabit, you are like a one-legged man in an ass-kicking contest.
+> Without numerical fluency, in the part of life most of us inhabit, you are like a one-legged man in an ass-kicking contest.
 
 Charming advise from the Vice-Chairman of Berkshire Hathaway. If you don't care about the numbers, when you invest, you're probably going to get hurt.
 
