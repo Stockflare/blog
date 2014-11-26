@@ -1,0 +1,20 @@
+image: grahamc/jekyll
+script:
+  - jekyll build
+notify:
+  flowdock:
+    source: Drone
+    token: $$flowdock_token
+    tags: drone
+    on_started: true
+    on_success: true
+    on_failure: true
+publish:
+  s3:
+    acl: public-read
+    region: us-east-1
+    bucket: blog.stockflare.com
+    access_key: $$access_key_id
+    secret_key: $$secret_access_key
+    source: /out/
+    target: /
