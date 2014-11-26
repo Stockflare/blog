@@ -1,4 +1,4 @@
-image: kisenka/centos6-jekyll
+image: stockflare/jekyll:0.0.1
 script:
   - jekyll build
 notify:
