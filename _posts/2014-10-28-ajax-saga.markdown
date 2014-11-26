@@ -13,7 +13,7 @@ For the last couple of months I have been working on getting to the bottom of pr
 
 ## Introduction
 
-The site itself is [Stockflare](https://stockflare.com/).  It is a stock analysis web site where we process market data and rate all stocks worldwide one to five stars (five being the best).
+The site itself is [Stockflare](https://stockflare.com/).  It is a stock analysis web site where we process market data and rate all stocks worldwide one to five stars (five being the best). 
 
 It is hosted on an Amazon S3 Bucket which essentially serves just the index.html, which in turn loads the UI Javascript (Backbone and Marionette).  The Backbone router then takes over and renders the appropriate page.
 
@@ -26,7 +26,7 @@ This ends up at the S3 Bucket as
 
 It is the S3 routing rules that hash the path.
 
-The browser is served index.html and the Backbone router deals with the hash path.  Backbone also has Browser pushState enabled so the user sees a nice pretty path in their browser.
+The browser is served index.html and the Backbone router deals with the hash path.  Backbone also has Browser pushState enabled so the user sees a nice pretty path in their browser. 
 
 ## escaped_fragment
 
@@ -41,7 +41,9 @@ And return the appropriate rendered HTML;
 Finally create a sitemap that contains the links to the pages we want to crawl.
 
 And all will be well.
+
 ## Our initial strategy
+
 We created a small Node.js service using Phantom.js that would take the following:
 
 `https://seo.stockflare.com/?_escaped_fragment_=/stocks/WPP.L`
@@ -57,11 +59,11 @@ The base of the service was the npm module [localnerve/html-snapshots](https://g
 ## First Problem Gzipped assets
 
 Everything in our S3 bucket is gzipped, Phantoms.js would simply not process it until we put.
-`
+<code>
 page.customHeaders = {
   "Content-Encoding": "gzip"
 };
-`
+</code>
 in the `snapshotSingle.js` file.
 
 ## Second problem HashBangs
@@ -77,30 +79,30 @@ while
 The Backbone router does not handle hashing paths if you have pushState enabled.
 
 So our Backbone router ended up looking like this.
-`
+<code>
 define([
 	'backbone',
 	'controllers/stock'
 ],
-function( Backbone, StockController ) {
-  'use strict';
-	return Backbone.Marionette.AppRouter.extend({
-		controller: StockController,
-		appRoutes: {
-			"": "index",
-			"stocks/:ric": "show",
-			"stocks/:ric/detail/:tab": "detail",
-			"stocks/:ric/info/:tab": "info",
-			"!/": "index",
-			"!/stocks/:ric": "show",
-			"!/stocks/:ric/detail/:tab": "detail",
-			"!/stocks/:ric/info/:tab": "info",
-			"search": "search",
-			"filters": "filters"
+function( Backbone, StockController ) { <br>
+  'use strict';<br>
+	return Backbone.Marionette.AppRouter.extend({<br>
+		controller: StockController,<br>
+		appRoutes: {<br>
+			"": "index",<br>
+			"stocks/:ric": "show",<br>
+			"stocks/:ric/detail/:tab": "detail",<br>
+			"stocks/:ric/info/:tab": "info",<br>
+			"!/": "index",<br>
+			"!/stocks/:ric": "show",<br>
+			"!/stocks/:ric/detail/:tab": "detail",<br>
+			"!/stocks/:ric/info/:tab": "info",<br>
+			"search": "search",<br>
+			"filters": "filters"<br>
 		}
 	});
 });
-`
+</code>
 
 Every route that needed to be ajax crawled is duplicated to support a route like this.
 
@@ -114,13 +116,10 @@ So when we finally get into the google index the links will look like `https://s
 
 When google crawls
 `http://stockflare.com/#!/stocks/WPP.L`
-
 it will be redirected to 
 `https://stockflare.com/#!/stocks/WPP.L`
-
 Google will then try to crawl
 `http://seo.stockflare.com/?_escaped_fragment_=/stocks/WPP.L`
-
 It will be redirected to 
 `https://seo.stockflare.com/?_escaped_fragment_=/stocks/WPP.L`
 
