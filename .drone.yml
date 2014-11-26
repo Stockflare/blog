@@ -1,4 +1,4 @@
-image: grahamc/jekyll
+image: schickling/jekyll
 script:
   - jekyll build
 notify:
