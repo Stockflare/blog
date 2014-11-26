@@ -1,4 +1,4 @@
-image: schickling/jekyll
+image: kisenka/centos6-jekyll
 script:
   - jekyll build
 notify:
