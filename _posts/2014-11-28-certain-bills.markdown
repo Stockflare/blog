@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Quotes: Certain Bills"
-date:   2014-11-28 15:55:29
+date:   2014-11-28 16:25:39
 categories: quote
 author: Shane Leonard
 image: /img/quote-certain-bills.jpg
