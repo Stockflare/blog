@@ -1,7 +1,7 @@
 image: stockflare/jekyll:0.4.0
 script:
   - jekyll build --destination out
-  - s3cmd --access_key=$$access_key_id --secret_key=$$secret_access_key --acl-public put --recursive out s3://blog.stockflare.com/test/
+  - s3cmd --access_key=$$access_key_id --secret_key=$$secret_access_key --acl-public put --recursive out s3://blog.stockflare.com/
 notify:
   flowdock:
     source: Drone
