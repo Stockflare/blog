@@ -1,6 +1,5 @@
 image: stockflare/jekyll:0.0.2
 script:
-  - jekyll version
   - jekyll build
 notify:
   flowdock:
