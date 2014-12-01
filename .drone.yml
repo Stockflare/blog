@@ -11,10 +11,10 @@ notify:
     on_failure: true
 publish:
   s3:
-    acl: private
+    acl: public-read
     region: us-east-1
     bucket: blog.stockflare.com
     access_key: $$access_key_id
     secret_key: $$secret_access_key
-    source: /out/**
+    source: out/**
     target: /
