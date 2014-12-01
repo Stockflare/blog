@@ -1,4 +1,4 @@
-image: stockflare/jekyll:0.0.1
+image: stockflare/jekyll:0.0.2
 script:
   - jekyll build
 notify:
