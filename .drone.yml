@@ -11,7 +11,6 @@ notify:
     on_failure: true
 publish:
   s3:
-    acl: public-read
     region: us-east-1
     bucket: blog.stockflare.com
     access_key: $$access_key_id
