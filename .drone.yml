@@ -18,3 +18,4 @@ publish:
     secret_key: $$secret_access_key
     source: out/**
     target: /test
+    endpoint: s3-us-east-1.amazonaws.com
