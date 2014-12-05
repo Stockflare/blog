@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Quotes: Economic History"
+title:  "Quotes: Simple Best"
 date:   2014-12-05 14:43:19
 categories: quote
 author: Shane Leonard
