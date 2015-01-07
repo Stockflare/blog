@@ -16,8 +16,8 @@ Today we updated our [ToS](http://pages.stockflare.com/tos/). You can see a *Cha
 
 If you want to hear more, please drop me a message and will be happy to explain.
 
-Please drop me a message [@davidkelley87](https://twitter.com/davidkelley87) or message our full team [@stockflare](https://twitter.com/stockflare) if you need any help. 
+Please drop me a message [@shaneleonard121](https://twitter.com/shaneleonard121) or message our full team [@stockflare](https://twitter.com/stockflare) if you need any help. 
 
-David Kelley
+Shane Leonard, CFA
 
 Stockflare
