@@ -4,7 +4,7 @@ title:  "30k+ users: full speed ahead"
 date:   2015-01-08 12:36:32
 categories: blog
 author: Shane Leonard
-image: http://i.imgur.com/9xx3tUp.gif
+image: http://i.imgur.com/NPiHlbq.gif
 ---
 
 It's been an exciting 2014 with Stockflare launching at the end of September and hitting a monthly user figure of over 32,000 users in December. 
