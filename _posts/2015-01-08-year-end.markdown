@@ -9,7 +9,7 @@ image: http://i.imgur.com/NPiHlbq.gif
 
 It's been an exciting 2014 with Stockflare launching at the end of September and hitting a monthly user figure of over 32,000 users in December. 
 
-Here's what the last 3 months looked like. These are the user figures for each month. So nice reviews at [ProductHunt](http://www.producthunt.com/posts/stockflare), [DesignerNews](https://news.layervault.com/stories/40122-site-design-stockflares-new-landing-page), [Awwwards](http://www.awwwards.com/best-websites/stockflare/) and especially at [LifeHacker](http://twocents.lifehacker.com/stockflare-simplifies-stock-market-data-to-make-investi-1672035079) helped us reach new users. 
+Here's what the last 3 months looked like. These are the user figures for each month. With nice reviews at [ProductHunt](http://www.producthunt.com/posts/stockflare), [DesignerNews](https://news.layervault.com/stories/40122-site-design-stockflares-new-landing-page), [Awwwards](http://www.awwwards.com/best-websites/stockflare/) and especially at [LifeHacker](http://twocents.lifehacker.com/stockflare-simplifies-stock-market-data-to-make-investi-1672035079) helping us reach lots of new users. 
 
 ![User numbers](/img/user-numbers-Dec-2014.png "User numbers")
 
@@ -27,6 +27,10 @@ The amazing cut in the bounce rate, is entirely driven by our [new landing page]
 ![Landing Page](/img/Landing-page-Dec-2014.png "Landing Page")
 
 *Aside:* and if you are wondering what "Users (Without C Language)" means, that's went we exclude bots and crawlers from the statistics. We only care to help humans pick stocks, not computers even if they are algo-traders!
+
+Thanks again to everyone who's using Stockflare. Many of you have send us feedback. We've added a lot of requests to task list. We really appreciate your help.
+
+We hope that 2015 will be a great year, personal and investing, for us all.
 
 Please drop me a message [@shaneleonard121](https://twitter.com/shaneleonard121) or message our full team [@stockflare](https://twitter.com/stockflare) if you need any help. 
 
