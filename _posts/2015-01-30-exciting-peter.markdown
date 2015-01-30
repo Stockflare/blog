@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Quotes: Patient Winning"
+title:  "Quotes: Dangerous Fun"
 date:   2015-01-30 10:31:09
 categories: quote
 author: Shane Leonard
