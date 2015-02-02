@@ -9,7 +9,7 @@ image: /img/quote-taking-care.jpg
 
 From [Bob Jones](http://en.wikipedia.org/wiki/Bob_Jones_(businessman)), property mogul.
 
-> No one will take as much case with your money as you will yourself.
+> No one will take as much care with your money as you will yourself.
 
 Though, sadly too many of us trust our money to the investment management industry. High fees, poor performance, almost guaranteed.
 
