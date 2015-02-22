@@ -7,7 +7,7 @@ author: Shane Leonard
 image: /img/quote-hetty-sells.jpg
 ---
 
-From [Hetty Green](http://en.wikipedia.org/wiki/Hetty_Green), known as the *Witch of Wall Street* who was the richest woman in America, if not the world, at the time of John D. Rockerfeller and J.P. Morgan.
+From [Hetty Green](http://en.wikipedia.org/wiki/Hetty_Green), known as the *Witch of Wall Street* who was the richest woman in America, if not the world, at the time of J.D. Rockefeller and J.P. Morgan.
 
 > I buy when things are low and no one wants them. I keep them until they go up and people are crazy to get them.
 
