@@ -8,8 +8,6 @@ author: David Kelley
 image: http://i.imgur.com/b51dtYS.gif
 ---
 
-# Can investing be fun?
-
 ## A complex minefield
 
 To the average Joe, like me, the world of stock trading is an impenetrable, complex minefield. Filled with countless statistics, mind-boggling ratios and deafening noise. 
