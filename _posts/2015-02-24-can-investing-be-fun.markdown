@@ -7,7 +7,7 @@ author: David Kelley
 image: http://i.imgur.com/6RKdKha.gif
 ---
 
-To the average Joe like me, the world of stock trading is an impenetrable, complex minefield. Filled with countless statistics, mind-boggling ratios and deafening noise. Then of course, there comes a time when you actually need to open a brokerage account to trade with (good luck). Welcome to the world of unneessary confusion, hefty fees and commissions.
+To the average Joe like me, the world of stock trading is an impenetrable, complex minefield. Filled with countless statistics, mind-boggling ratios and deafening noise. Then of course, there comes a time when you actually need to open a brokerage account to trade with (good luck). Welcome to the world of unnecessary confusion, hefty fees and commissions.
 
 Trading doesn't exactly look like a trip to Disneyland, right? Perhaps that's why many people choose ISAs and Robo-Advisors.
 
