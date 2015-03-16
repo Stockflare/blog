@@ -65,6 +65,7 @@ As Bob Jones the property tycoon said:
 
 So what are you waiting for?
 
+---
 
 Shane Leonard, CFA
 
