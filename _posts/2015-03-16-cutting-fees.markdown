@@ -7,7 +7,7 @@ author: Shane Leonard
 image: http://i.imgur.com/PdLcspc.gif
 ---
 
-Bankers hurt! Cutting fees is as important as saving
+# Bankers hurt! Cutting fees is as important as saving
 
 ## Millions of Americans are in danger
 
@@ -17,7 +17,7 @@ Recently, the Center for American Progress, an education think tank, published i
 
 Is the situation as dire as they write? And is the lack of savings the only problem? 
 
-At [Stockflare](https://www.stockflare.com/), we think that the savings shortfall is only part of the problem. Yes, families aren't saving enough. But also, they are picking the wrong investments and paying through the nose for it. **The finance industry itself is playing a major role in hurting the retirement savings of every American family.**
+At [Stockflare](https://www.stockflare.com/), we think that the savings shortfall is only part of the problem. Yes, families aren't saving enough. But also, they are picking the wrong investments and paying through the nose for it. **The finance industry itself is playing a major role in hurting** the retirement savings of **every American family.**
 
 ## Just how bad is the situation?
 
@@ -33,7 +33,7 @@ Additional analysis shows that 70% of American families, regardless of their age
 
 ## Do the math & start saving
 
-Too often people tell us **that life is short. This is plain wrong**. Life is rather long, and anyone who isn't planning for that is likely to have a rather uncomfortable few years before the grave. 
+Too often people tell us **that life is short**. This **is plain wrong**. Life is rather long, and anyone who isn't planning for that is likely to have a rather uncomfortable few years before the grave. 
 
 Fortunately, math is on our side. Compounding in particular. For example, every $1,000 saved in your mid 20s grows to over $10,000 at retirement, assuming a 6% growth every year. But waiting until your mid-30s, then the same $1,000 will only grow to $6,000. Wait until your mid-40s and each $1,000 saved will compound to just $3,000 at retirement.
 
@@ -43,7 +43,7 @@ But your savings aren't the only thing that compounds. The fees you pay, compoun
 
 Most people recognise the fee problem. So it's not surprising that Vanguard has become one of the largest asset managers in the world. Their whole model is based on simple investment products at low fees. They've grown in under 40 years to manage $3 trillion of savings.
 
-Vanguard even has [a tool on their website](https://investor.vanguard.com/etf/fees) highlighting the dangers of paying high fees. They show that over 10, 20 and 30 years, an initial $50,000 investment with Vanguard would pay a remarkably lower quantity of fees. Imagine, using a low cost provider like Vanguard cuts your fees by $34,000 for every $50,000 you've saved. That's $34,000 that goes into your account, not the banker's.
+Vanguard even has [a tool on their website](https://investor.vanguard.com/etf/fees) highlighting the dangers of paying high fees. They show that over 10, 20 and 30 years, an initial $50,000 investment with Vanguard would pay a remarkably lower quantity of fees. Imagine, using a low cost provider like Vanguard cuts your fees by $34,000 for every $50,000 you've saved. **That's $34,000 that goes into your account, not the banker's**.
 
 ![alt text](http://i.imgur.com/YObAuxi.png "Vanguard on fees")
 
@@ -57,7 +57,7 @@ Worse still, the asset management industry does a terrible job of managing our m
 
 Sadly, the asset management industry has proven itself to be a high fee, poor performance model. Anyone that suggests a wealth manager is to your wealth, what a doctor is to your health, has not looked at the data. Or worse, is choosing to ignore it. 
 
-The finance industry wraps itself in complexity and jargon. People feel helpless and disconnected from their investments. They don't switch, given the lack of alternatives. As a result, the bankers continue to enjoy our money, literally at our expense.
+The finance industry wraps itself in complexity and jargon. People feel helpless and disconnected from their investments. They don't switch, given the lack of alternatives. As a result, the **bankers continue to enjoy our money, literally at our expense**.
 
 As Bob Jones the property tycoon said:
 
