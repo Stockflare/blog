@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Bankers hurt"
+title:  "Bankers Hurt"
 date:   2015-03-16 13:23:36
 categories: blog
 author: Shane Leonard
 image: http://i.imgur.com/PdLcspc.gif
 ---
 
-# Investing: cutting fees is as important as saving
+Bankers hurt! Cutting fees is as important as saving
 
 ## Millions of Americans are in danger
 
@@ -21,7 +21,7 @@ At [Stockflare](https://www.stockflare.com/), we think that the savings shortfal
 
 ## Just how bad is the situation?
 
-The [latest survey](http://www.federalreserve.gov/econresdata/2013-report-economic-well-being-us-households-201407.pdf) by the Federal Reserve points to a complete lack of planning by over 30% of Americans. It's not too surprising that over half of the millennial age group are not yet on track. But 1 in 4 people in their 30s and 40s have not yet started saving. [This points](https://cdn.americanprogress.org/wp-content/uploads/2015/01/RetirementCrisis1.pdf") to a serious situation.
+The [latest survey](http://www.federalreserve.gov/econresdata/2013-report-economic-well-being-us-households-201407.pdf) by the Federal Reserve points to a complete lack of planning by over 30% of Americans. It's not too surprising that over half of the millennial age group are not yet on track. But 1 in 4 people in their 30s and 40s have not yet started saving. [This points](https://cdn.americanprogress.org/wp-content/uploads/2015/01/RetirementCrisis1.pdf) to a serious situation.
 
 ![alt text](http://i.imgur.com/9wONaaa.png "Retirement data from Center for Ammerican Progress")
 
@@ -33,7 +33,7 @@ Additional analysis shows that 70% of American families, regardless of their age
 
 ## Do the math & start saving
 
-Too often people tell us that life is short. This is plain wrong. Life is rather long, and anyone who isn't planning for that is likely to have a rather uncomfortable few years before the grave. 
+Too often people tell us **that life is short. This is plain wrong**. Life is rather long, and anyone who isn't planning for that is likely to have a rather uncomfortable few years before the grave. 
 
 Fortunately, math is on our side. Compounding in particular. For example, every $1,000 saved in your mid 20s grows to over $10,000 at retirement, assuming a 6% growth every year. But waiting until your mid-30s, then the same $1,000 will only grow to $6,000. Wait until your mid-40s and each $1,000 saved will compound to just $3,000 at retirement.
 
@@ -41,7 +41,7 @@ Fortunately, math is on our side. Compounding in particular. For example, every 
 
 But your savings aren't the only thing that compounds. The fees you pay, compound as well. But instead of helping, they take away from your savings, more and more aggressively, the higher the fees are. 
 
-Most people recognise the fee problem. So it's not surprising that Vanguard, who's whole model is based on simple investment products at low fees has grown in under 40 years to manage $3 trillion of savings and become one of the largest asset managers in the world.
+Most people recognise the fee problem. So it's not surprising that Vanguard has become one of the largest asset managers in the world. Their whole model is based on simple investment products at low fees. They've grown in under 40 years to manage $3 trillion of savings.
 
 Vanguard even has [a tool on their website](https://investor.vanguard.com/etf/fees) highlighting the dangers of paying high fees. They show that over 10, 20 and 30 years, an initial $50,000 investment with Vanguard would pay a remarkably lower quantity of fees. Imagine, using a low cost provider like Vanguard cuts your fees by $34,000 for every $50,000 you've saved. That's $34,000 that goes into your account, not the banker's.
 
@@ -64,3 +64,12 @@ As Bob Jones the property tycoon said:
 > No one will take as much care with your money as you will yourself.
 
 So what are you waiting for?
+
+
+Shane Leonard, CFA
+
+Managing Director
+
+Stockflare
+
+Please drop me a message [@shaneleonard121](https://twitter.com/shaneleonard121) or the full team [@stockflare](https://twitter.com/stockflare).
