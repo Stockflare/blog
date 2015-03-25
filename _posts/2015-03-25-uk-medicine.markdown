@@ -45,7 +45,7 @@ So, with such a small list of the type of stocks I like, I dipped into the 4-sta
 
 ---
 
-To get updates on UK stocks that catch our eye at Stockflare, or to see what UK stocks, I'm planning to buy, *before* I buy them, please follow our UK Twitter account [@StockflareUK](https://twitter.com/stockflareUK). Yes, you'll be able to front-run me, if you are so inclided.
+To get updates on UK stocks that catch our eye at Stockflare, or to see what UK stocks, I'm planning to buy, *before* I buy them, please follow our UK Twitter account [@StockflareUK](https://twitter.com/stockflareUK). Yes, you'll be able to front-run me, if you are so inclined.
 
 ---
 
