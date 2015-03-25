@@ -13,13 +13,13 @@ We take our own medicine here at Stockflare. We use [Pick Stocks](https://stockf
 
 We'd love to know. So to get the ball rolling, here's what's in mine. Today, I've got 15 stocks in my UK account. And if the forecasts of the investment bankers come true, my £15,000 ($23k) could grow to £90,000 ($139k) in 7 years. 29% a year? My oh my, the brokers are being aggressive! If I even got half that, I'd be delighted.
 
-![alt text](http://imgur.com/2uZNYz7 "Shane's GBP portfolio on 25th March") 
+![alt text](http://imgur.com/2uZNYz7.png "Shane's GBP portfolio on 25th March") 
 
 ## Wonder stocks?
 
 So what are these wonder stocks that I've bought? They range from homebuilders like [Bovis](https://stockflare.com/#stocks/BVS.L) to buses at [Stagecoach](https://stockflare.com/#stocks/SGC.L). Pedestrian you might say! Then, there are some tiny companies like [Dialight](https://stockflare.com/#stocks/DIAL.L) who make energy efficient light bulbs and [Cape](https://stockflare.com/stocks/CIU.L) who provide scaffolding and safety services to some of the most dangerous industries in the world!
 
-![alt text](http://imgur.com/rPP7Zb9 "Shane's GBP stocks on 25th March 2015")
+![alt text](http://imgur.com/rPP7Zb9.png "Shane's GBP stocks on 25th March 2015")
 
 ## How did I pick them?
 
@@ -31,13 +31,13 @@ We don't give advice at Stockflare. Our star rating system is a quality check, y
 
 Plus, the UK doesn't have a lot of 5 star stocks, just 19. And many of them just aren't companies that I like. Here's the full list.
 
-![alt text](http://imgur.com/G4ndfDT "5 star stocks in the UK on 25th March 2015")
+![alt text](http://imgur.com/G4ndfDT.png "5 star stocks in the UK on 25th March 2015")
 
 See? There are mega banks like [RBS](https://stockflare.com/#stocks/RBS.L) on the list and a whole collection of Russian businesses like [Norilsk Nickel](https://stockflare.com/stocks/NKELyq.L). And as much as I am tempted to invest in some of these stocks, they are priced in dollars on the London Stock Exchange, so not for my pound account! Yes, even though I like [MD Medical](https://stockflare.com/stocks/MDMGq.L), who are bringing world class maternity care to Russian mothers.
 
 So, with such a small list of the type of stocks I like, I dipped into the 4-star group. Here's the full detail on the 15 UK stocks that I own.
 
-![alt text](http://imgur.com/IB7pBD6 "Shane's Projected Portfolio on 25th March 2015")
+![alt text](http://imgur.com/IB7pBD6.png "Shane's Projected Portfolio on 25th March 2015")
 
 ## And the big questions are?
 
