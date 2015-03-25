@@ -17,7 +17,7 @@ We'd love to know. So to get the ball rolling, here's what's in mine. Today, I'v
 
 ## Wonder stocks?
 
-So what are these wonder stocks that I've bought? They range from homebuilders like [Bovis](https://stockflare.com/#stocks/BVS.L) to buses at [Stagecoach](https://stockflare.com/#stocks/SGC.L). Pedestrian you might say! Then, there are some tiny companies like [Dialight](https://stockflare.com/#stocks/DIAL.L) who make energy efficient light bulbs and [Cape](https://stockflare.com/stocks/CIU.L) who provide scaffolding and safety services to some of the most dangerous industries in the world!
+So what are these wonder stocks that I've bought? They range from homebuilders like [Bovis](https://stockflare.com/#stocks/BVS.L) to the buses at [Stagecoach](https://stockflare.com/#stocks/SGC.L). Pedestrian you might say! Then, there are some tiny companies like [Dialight](https://stockflare.com/#stocks/DIAL.L) who make energy efficient light bulbs and [Cape](https://stockflare.com/stocks/CIU.L) who provide scaffolding and safety services to some of the most dangerous industries in the world!
 
 ![alt text](http://imgur.com/rPP7Zb9.png "Shane's GBP stocks on 25th March 2015")
 
@@ -41,11 +41,11 @@ So, with such a small list of the type of stocks I like, I dipped into the 4-sta
 
 ## And the big questions are?
 
-Firstly, if you want me to explain why I bought any specific stock, please let me know. I'm happy to explain. Secondly, if you want to ask if you should buy any of these stocks for yourself, well, there's only one person you should ask that question, yourself, not me! Finally, will I update you regularly on my portfolio? Well, yes. But given these are companies I want to own for many year, I hope there aren't going to be a lot changes!
+**Firstly**, if you want me to explain why I bought any specific stock, please let me know. I'm happy to explain. **Secondly**, if you want to ask if you should buy any of these stocks for yourself, well, there's only one person you should ask that question, yourself, not me! **Finally**, will I update you regularly on my portfolio? Well, yes. But given these are companies I want to own for many years, I hope there aren't going to be a lot changes!
 
 ---
 
-To get updates on UK stocks that catch our eye, here at Stockflare, or to see what UK stocks, I'm planning to buy, *before* I buy it, please follow our UK Twitter account [@StockflareUK](https://twitter.com/stockflareUK)
+To get updates on UK stocks that catch our eye at Stockflare, or to see what UK stocks, I'm planning to buy, *before* I buy them, please follow our UK Twitter account [@StockflareUK](https://twitter.com/stockflareUK). Yes, you'll be able to front-run me, if you are so inclided.
 
 ---
 
