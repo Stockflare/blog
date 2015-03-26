@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dogfooding: Euro edition"
+title:  "Dogfooding: euro edition"
 date:   2015-03-26 15:23:23
 categories: blog
 author: Shane Leonard
@@ -11,7 +11,7 @@ Living in the UK, but coming from euroland, it would be odd if I wasn't interest
 
 ## Why the dogfood?
 
-It's a funny phrase [dogfooding](http://en.wikipedia.org/wiki/Eating_your_own_dog_food). Though like many stock pickers, I love sharing my ideas. Why? If I've bought something silly, I hope you'll point it out. So, I'm going to list the European stocks that are in my portfolio. 
+It's a funny phrase [dogfooding](http://en.wikipedia.org/wiki/Eating_your_own_dog_food). Though like many stock pickers, I love sharing my ideas. Why? If I've bought something silly, I hope you'll point it out. So, I'm going to list the European stocks that I own. 
 
 Though don't get carried away. At Stockflare we don't give advice, make recommendations or predictions. As Sam Goldwyn the founder of MGM Studios said:
 
@@ -41,7 +41,7 @@ Here's the list of all 30 stocks in euroland with 5 stars. There are enormous co
 
 ## What's the detail?
 
-Here's the full list of my euro stocks. Drop me a message if you want my rationale for owning any of these stocks. Would be happy to explain! And I promise to keep you up to date on any trades I make. Though given I look to the long-term hopefully they'll be few and far between!
+Here's the full list of my euro stocks. Drop me a message if you want my rationale for owning any of them. I shall be happy to explain! And I promise to keep you up to date on any trades I make. Though given I look to the long-term, they'll be few and far between!
 
 ![alt text](http://imgur.com/oOVYwk8.png "Shane's projected portfolio in EUR on 26th March") 
 
