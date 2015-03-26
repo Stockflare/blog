@@ -41,7 +41,11 @@ So, with such a small list of the type of stocks I like, I dipped into the 4-sta
 
 ## And the big questions are?
 
-**Firstly**, if you want me to explain why I bought any specific stock, please let me know. I'm happy to explain. **Secondly**, if you want to ask if you should buy any of these stocks for yourself, well, there's only one person you should ask that question, yourself, not me! **Finally**, will I update you regularly on my portfolio? Well, yes. But given these are companies I want to own for many years, I hope there aren't going to be a lot changes!
+**Firstly**, if you want me to explain why I bought any specific stock, please let me know. I'm happy to explain. 
+
+**Secondly**, if you want to ask if you should buy any of these stocks for yourself, well, there's only one person you should ask that question, yourself, not me! 
+
+**Finally**, will I update you regularly on my portfolio? Well, yes. But given these are companies I want to own for many years, I hope there aren't going to be a lot changes!
 
 ---
 
