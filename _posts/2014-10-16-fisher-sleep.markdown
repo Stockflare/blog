@@ -4,7 +4,7 @@ title:  "Quotes: Sleeping Well"
 date:   2014-10-16 12:51:23
 categories: quote
 author: Shane Leonard
-image: /img/quote-fisher-sleep.jpg
+image: /images/quote-fisher-sleep.jpg
 ---
 
 From [Phil Fisher](http://en.wikipedia.org/wiki/Philip_Arthur_Fisher), author of [Common Stocks and Uncommon Profits](http://www.amazon.com/Common-Stocks-Uncommon-Profits-Writings/dp/0471445509).

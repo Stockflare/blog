@@ -4,7 +4,7 @@ title:  "Quotes: Noisy Insider"
 date:   2014-09-18 14:36:12
 categories: quote
 author: Shane Leonard
-image: /img/quote-rogers-insiders.jpg
+image: /images/quote-rogers-insiders.jpg
 ---
 
 From [Jim Rogers](http://en.wikipedia.org/wiki/Jim_Rogers), co-founder of the Quantum Fund with George Soros. This is a quote from the book [Clash of the Financial Pundits](http://www.amazon.com/Clash-Financial-Pundits-Influences-Investment/dp/0071817921).

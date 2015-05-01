@@ -4,7 +4,7 @@ title:  "Quotes: Total Domination"
 date:   2014-09-24 17:02:03
 categories: quote
 author: Shane Leonard
-image: /img/quote-lynch-monopolies.jpg
+image: /images/quote-lynch-monopolies.jpg
 ---
 
 From [Peter Lynch](http://en.wikipedia.org/wiki/Peter_Lynch), who had a career at Fidelity hunting *ten-baggers*, stocks that returned ten times the initial investment.

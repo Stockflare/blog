@@ -4,7 +4,7 @@ title:  "Yahoo!'s Selling The Family Silver On The Cheap"
 date:   2014-09-21 21:45:00
 categories: post
 author: Shane Leonard
-image: /img/Yahoo_Logo.png
+image: /images/Yahoo_Logo.png
 ---
 
 ### Summary
@@ -39,7 +39,7 @@ Even if I rated management, the outlook for the core business is poor at 13% gro
 
 So for now, I have to pass on Yahoo!.
 
-![Star Rating](/img/YHOO-5-stars-Sept-21.png "Yahoo!'s' Rating")
+![Star Rating](/images/YHOO-5-stars-Sept-21.png "Yahoo!'s' Rating")
 
 ### So what next?
 

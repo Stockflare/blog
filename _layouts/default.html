@@ -3,58 +3,33 @@
 
   {% include head.html %}
 
-    <body>
-      <!-- ClickTale Top part -->
-      <script type="text/javascript">
-      var WRInitTime=(new Date()).getTime();
-      </script>
-      <!-- ClickTale end of Top part -->
+  <body>
 
 
-    {% include header.html %}
+    <header class="visible background-dark">
+      <div>{% include header.html %}</div>
+    </header>
 
-    <div class="page-content">
-      <div class="wrap">
-        {{ content }}
+    <div id="context" class="background-twilight"></div>
+
+    <div id="wrap" class="background-background small-xs-bottom-padding">
+      <div id="flash"></div>
+      <div id="mobile-menu">
+        <div>
+          <div class="clearfix visible-xs hidden-sm background-brand">
+            <h2 class="reveal pull-left micro-xs-vertical-padding small-xs-horizontal-padding weak">
+              <i class="icon ion-navicon icon-normal"></i>
+            </h2>
+          </div>
+        </div>
+      </div>
+      <div id="content">
+        <div>{{ content }}</div>
       </div>
     </div>
 
     {% include footer.html %}
 
+  </body>
 
-      <!-- ClickTale Bottom part -->
-
-      <script type='text/javascript'>
-      // The ClickTale Balkan Tracking Code may be programmatically customized using hooks:
-      //
-      //   function ClickTalePreRecordingHook() { /* place your customized code here */  }
-      //
-      // For details about ClickTale hooks, please consult the wiki page http://wiki.clicktale.com/Article/Customizing_code_version_2
-
-      document.write(unescape("%3Cscript%20src='"+
-      (document.location.protocol=='https:'?
-      "https://cdnssl.clicktale.net/www07/ptc/cf3d6122-7f79-4de0-b5f9-771c44785f4d.js":
-      "http://cdn.clicktale.net/www07/ptc/cf3d6122-7f79-4de0-b5f9-771c44785f4d.js")+"'%20type='text/javascript'%3E%3C/script%3E"));
-      </script>
-
-
-      <!-- ClickTale end of Bottom part -->
-
-      <script>(function() {
-        var _fbq = window._fbq || (window._fbq = []);
-        if (!_fbq.loaded) {
-          var fbds = document.createElement('script');
-          fbds.async = true;
-          fbds.src = '//connect.facebook.net/en_US/fbds.js';
-          var s = document.getElementsByTagName('script')[0];
-          s.parentNode.insertBefore(fbds, s);
-          _fbq.loaded = true;
-        }
-      })();
-      window._fbq = window._fbq || [];
-      window._fbq.push(['track', '6020806689765', {'value':'0.00','currency':'USD'}]);
-      </script>
-      <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?ev=6020806689765&amp;cd[value]=0.00&amp;cd[currency]=USD&amp;noscript=1" /></noscript>
-
-    </body>
 </html>

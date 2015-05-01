@@ -4,7 +4,7 @@ title:  "Quotes: Quick Divorce"
 date:   2014-10-06 12:26:31
 categories: quote
 author: Shane Leonard
-image: /img/quote-lynch-divorce.jpg
+image: /images/quote-lynch-divorce.jpg
 ---
 
 From the Peter Lynch, ex-Fidelity star fund manager.

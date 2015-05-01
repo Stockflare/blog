@@ -4,7 +4,7 @@ title:  "Quotes: Popular Disasters"
 date:   2014-09-29 16:56:43
 categories: quote
 author: Shane Leonard
-image: /img/quote-buffett-crowd.jpg
+image: /images/quote-buffett-crowd.jpg
 ---
 
 From Warren Buffett.

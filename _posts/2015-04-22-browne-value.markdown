@@ -4,7 +4,7 @@ title:  "Quotes: Valuable Dummies"
 date:   2015-04-22 16:02:12
 categories: quote
 author: Shane Leonard
-image: /img/quote-browne-value.jpg
+image: /images/quote-browne-value.jpg
 ---
 
 Quote from [Chris Browne](http://en.wikipedia.org/wiki/Christopher_H._Browne), value investor and author of [The Little Book of Value Investing](http://www.amazon.com/Little-Value-Investing-Books-Profits-ebook/dp/B008L01MTY/).

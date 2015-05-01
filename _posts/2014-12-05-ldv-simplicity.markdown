@@ -4,7 +4,7 @@ title:  "Quotes: Simple Best"
 date:   2014-12-05 14:43:19
 categories: quote
 author: Shane Leonard
-image: /img/quote-ldv-simplicity.jpg
+image: /images/quote-ldv-simplicity.jpg
 ---
 
 From [Leonardo da Vinci](http://en.wikipedia.org/wiki/Leonardo_da_Vinci), painter, sculptor, architect, musician, mathematician, engineer, inventor, anatomist, geologist, etc.

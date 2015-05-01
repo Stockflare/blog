@@ -4,7 +4,7 @@ title:  "Quotes: Technically Rich"
 date:   2014-10-22 13:21:32
 categories: quote
 author: Shane Leonard
-image: /img/quote-rene-rich.jpg
+image: /images/quote-rene-rich.jpg
 ---
 
 From [Rene Rivkin](http://en.wikipedia.org/wiki/Rene_Rivkin), Australian stockbroker and entrepreneur.

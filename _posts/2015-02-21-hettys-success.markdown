@@ -4,7 +4,7 @@ title:  "Quotes: Selling to Crazies"
 date:   2015-02-21 21:23:12
 categories: quote
 author: Shane Leonard
-image: /img/quote-hetty-sells.jpg
+image: /images/quote-hetty-sells.jpg
 ---
 
 From [Hetty Green](http://en.wikipedia.org/wiki/Hetty_Green), known as the *Witch of Wall Street* who was the richest woman in America, if not the world, at the time of J.D. Rockefeller and J.P. Morgan.

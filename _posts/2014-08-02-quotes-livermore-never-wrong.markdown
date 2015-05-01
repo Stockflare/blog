@@ -4,7 +4,7 @@ title:  "Quotes: Markets Are Never Wrong"
 date:   2014-08-02 22:53:36
 categories: quote
 author: Shane Leonard
-image: /img/quote-livermore-never-wrong.jpg
+image: /images/quote-livermore-never-wrong.jpg
 ---
 
 From [Jesse Livermore](http://en.wikipedia.org/wiki/Jesse_Lauriston_Livermore), aka _the Great Bear of Wall Street_.

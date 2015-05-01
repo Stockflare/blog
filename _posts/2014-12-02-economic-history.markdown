@@ -4,7 +4,7 @@ title:  "Quotes: Economic History"
 date:   2014-12-02 18:25:39
 categories: quote
 author: Shane Leonard
-image: /img/quote-rogers-economics.jpg
+image: /images/quote-rogers-economics.jpg
 ---
 
 From [Jim Rogers](http://en.wikipedia.org/wiki/Jim_Rogers), investor and author.

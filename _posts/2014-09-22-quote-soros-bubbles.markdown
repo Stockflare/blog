@@ -4,7 +4,7 @@ title:  "Quotes: Making Bubbles"
 date:   2014-09-22 16:33:53
 categories: quote
 author: Shane Leonard
-image: /img/quote-soros-bubbles.jpg
+image: /images/quote-soros-bubbles.jpg
 ---
 
 From [George Soros](http://en.wikipedia.org/wiki/George_Soros), co-founder of the Quantum Fund with Jim Rogers.

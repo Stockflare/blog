@@ -2,52 +2,37 @@
 layout: default
 ---
 
-<div class="jumbotron-custom">
-  <div class="container">
+<div class="home">
 
-    <div class="col-md-7 text-left">
-      <h1>Welcome To Our Team Blog</h1>
-      <p>Watch out for stock ideas that catch our attention. Tutorials on how to use Stockflare. Deep thoughts from the tech team. And even the occasional bit of humor.
-      </p>
-    </div>
+  <h1 class="small-xs-padding nested-text-dark">
+    <i class="icon icon-brand ion-compose"></i> Stockflare Blog
+  </h1>
 
-    <div class="col-md-5 text-right">
-      <span class="icon icon-torsos-all large"></span>
-    </div>
-
-  </div>
-</div>
-
-  <div class="blog-posts">
-
-  <div class="container">
-
+  <div class="small-xs-right-padding">
     <div class="row">
-      <div class="col-md-10 col-md-offset-1">
-
-
-          {% for post in site.posts %}
-          <div class="row post" itemscope="" itemtype="http://schema.org/BlogPosting">
-
-            <div class="col-md-4">
-              <div class="img-placeholder"><img src="{{ post.image }}"/></div>
+      {% for post in site.posts %}
+      <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
+        <div class="widget border-brand-hover small-xs-left-margin small-xs-bottom-margin blog-post-widget">
+          <a href="{{ post.url | prepend: site.baseurl }}">
+            <div class="image-canvas background-brand" style="background-image:url({{ post.image }});">
+              <div class="background"></div>
+              <div class="canvas-content">
+                <div class="small-xs-padding">
+                  <h2 class="micro-xs-bottom-margin text-normal no-wrap">{{ post.title }}</h2>
+                  <h6 class="text-normal">By {{ post.author }} on {{ post.date | date: "%b %-d, %Y" }}</h6>
+                </div>
+              </div>
             </div>
-
-            <div class="col-md-8">
-                <h3 itemprop="name headline"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
-                <p class="post-date" itemprop="datePublished">By {{ post.author }} on {{ post.date | date: "%b %-d, %Y" }}</p>
-                <p class="post-content" itemprop="articleBody">{{ post.content | strip_html | truncatewords:55}}</p>
-                <a class="btn btn-info" href="{{ post.url }}">View Full Story</a>
+            <div class="small-xs-margin row">
+              <div class="small-xs-padded-col col-xs-12">
+                <p class="no-xs-margin text-bright text-clamp-80">{{ post.content | strip_html | truncatewords:55}}</p>
+              </div>
             </div>
-
-          </div>
-          {% endfor %}
-         
-
+          </a>
+        </div>
       </div>
+      {% endfor %}
     </div>
+  </div>
 
 </div>
-
-
-

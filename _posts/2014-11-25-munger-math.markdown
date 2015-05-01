@@ -4,7 +4,7 @@ title:  "Quotes: A Mathematical Kick"
 date:   2014-11-25 15:55:29
 categories: quote
 author: Shane Leonard
-image: /img/quote-munger-math.jpg
+image: /images/quote-munger-math.jpg
 ---
 
 From [Charlie Munger](http://en.wikipedia.org/wiki/Charlie_Munger) investing soulmate of Warren Buffett.

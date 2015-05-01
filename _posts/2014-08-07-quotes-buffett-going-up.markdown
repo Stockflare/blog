@@ -4,7 +4,7 @@ title:  "Quotes: Dumb Reasoning"
 date:   2014-08-12 12:06:47
 categories: quote
 author: Shane Leonard
-image: /img/quote-buffett-going-up.jpg
+image: /images/quote-buffett-going-up.jpg
 ---
 
 From Warren Buffett

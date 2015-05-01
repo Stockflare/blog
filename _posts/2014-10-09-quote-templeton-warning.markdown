@@ -4,7 +4,7 @@ title:  "Quotes: Different Times"
 date:   2014-10-09 11:03:19
 categories: quote
 author: Shane Leonard
-image: /img/quote-templeton-warning.jpg
+image: /images/quote-templeton-warning.jpg
 ---
 
 From the [Sir John Templeton](http://en.wikipedia.org/wiki/John_Templeton), a pioneer of mutual funds investing outside the US. The firm he founded is now part of [Franklin Templeton](http://en.wikipedia.org/wiki/Franklin_Templeton_Investments).

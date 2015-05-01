@@ -4,7 +4,7 @@ title:  "Quotes: Lynch's Idiots"
 date:   2014-07-7 10:29:15
 categories: quote
 author: Shane Leonard
-image: /img/quote-peter-lynch-any-idiot.jpg
+image: /images/quote-peter-lynch-any-idiot.jpg
 ---
 
 From the Master of the Magellan Fund.

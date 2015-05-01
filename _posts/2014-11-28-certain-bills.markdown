@@ -4,7 +4,7 @@ title:  "Quotes: Certain Bills"
 date:   2014-11-28 16:25:39
 categories: quote
 author: Shane Leonard
-image: /img/quote-certain-bills.jpg
+image: /images/quote-certain-bills.jpg
 ---
 
 From [Bill Miller](http://en.wikipedia.org/wiki/Bill_Miller_%28finance%29) star manager at Legg Mason who beat the S&P 500 for 15 years in a row.

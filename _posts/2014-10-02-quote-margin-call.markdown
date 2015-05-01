@@ -4,7 +4,7 @@ title:  "Quotes: Wall Street Wins"
 date:   2014-10-02 11:26:31
 categories: quote
 author: Shane Leonard
-image: /img/quote-irons-wins.jpg
+image: /images/quote-irons-wins.jpg
 ---
 
 From the John Tuld character, played by Jeremy Irons, in the film [Margin Call](http://www.imdb.com/title/tt1615147/). Amazing cast attacking a complex subject. Not a financial success, sadly.

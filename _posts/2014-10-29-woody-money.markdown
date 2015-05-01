@@ -4,7 +4,7 @@ title:  "Quotes: Woody Logic"
 date:   2014-11-03 17:09:52
 categories: quote
 author: Shane Leonard
-image: /img/quote-woody-reasons.jpg
+image: /images/quote-woody-reasons.jpg
 ---
 
 From [Woody Allen](http://en.wikipedia.org/wiki/Woody_Allen).

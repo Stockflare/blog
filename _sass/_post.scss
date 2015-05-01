@@ -1,0 +1,19 @@
+.post-content-widget {
+
+  max-width: 1024px;
+  font-size: 1.15em;
+
+  img {
+    display: block;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    width: auto;
+    max-width: 80%;
+    height: auto;
+  }
+
+  & > * {
+    margin: 25px;
+  }
+
+}

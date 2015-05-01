@@ -4,7 +4,7 @@ title:  "Quotes: Limo vs Subway"
 date:   2014-07-21 15:08:22
 categories: quote
 author: Shane Leonard
-image: /img/quote-buffett-limo-subway.jpg
+image: /images/quote-buffett-limo-subway.jpg
 ---
 
 From Warren Buffett

@@ -4,7 +4,7 @@ title:  "Quotes: Forecasting Greats"
 date:   2014-10-13 12:16:49
 categories: quote
 author: Shane Leonard
-image: /img/quote-mgm-forecasts.jpg
+image: /images/quote-mgm-forecasts.jpg
 ---
 
 From [Sam Goldwyn](http://en.wikipedia.org/wiki/Samuel_Goldwyn), one of the most successful executives in Hollywood.

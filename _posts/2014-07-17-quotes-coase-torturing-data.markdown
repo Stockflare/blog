@@ -4,7 +4,7 @@ title:  "Quotes: Torturing Data"
 date:   2014-07-18 13:08:42
 categories: quote
 author: Shane Leonard
-image: /img/quote-coase-torturing-data.jpg
+image: /images/quote-coase-torturing-data.jpg
 ---
 
 From a Nobel prize winning economist, [Ronald Coase](http://en.wikipedia.org/wiki/Ronald_Coase).

@@ -4,7 +4,7 @@ title:  "Quotes: Buffett's Rules for Investors"
 date:   2014-07-3 14:15:02
 categories: quote
 author: Shane Leonard
-image: /img/quote-buffett-rules.jpg
+image: /images/quote-buffett-rules.jpg
 ---
 
 From the Sage of Omaha.

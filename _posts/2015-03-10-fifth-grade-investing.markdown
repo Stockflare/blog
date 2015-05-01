@@ -4,7 +4,7 @@ title:  "Quotes: 5th Grade"
 date:   2015-03-10 21:23:12
 categories: quote
 author: Shane Leonard
-image: /img/quote-lynch-graders.jpg
+image: /images/quote-lynch-graders.jpg
 ---
 
 From [Peter Lynch](http://en.wikipedia.org/wiki/Peter_Lynch).

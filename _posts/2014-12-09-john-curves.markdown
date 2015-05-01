@@ -4,7 +4,7 @@ title:  "Quotes: Curve Balls"
 date:   2014-12-09 14:51:52
 categories: quote
 author: Shane Leonard
-image: /img/quote-neff-curves.jpg
+image: /images/quote-neff-curves.jpg
 ---
 
 From [John Neff](http://en.wikipedia.org/wiki/John_Neff), whose Windsor fund beat the market for 30 years.

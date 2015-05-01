@@ -4,7 +4,7 @@ title:  "Quotes: Dangerous Fun"
 date:   2015-01-30 10:31:09
 categories: quote
 author: Shane Leonard
-image: /img/quote-lynch-work.jpg
+image: /images/quote-lynch-work.jpg
 ---
 
 From [Peter Lynch](http://en.wikipedia.org/wiki/Peter_Lynch).

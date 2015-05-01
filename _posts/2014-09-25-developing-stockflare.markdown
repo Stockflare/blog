@@ -4,7 +4,7 @@ title:  "Developing Stockflare"
 date:   2014-09-25 13:09:00
 categories: blog
 author: David Kelley
-image: /img/stockflare.png
+image: /images/stockflare.png
 ---
 
 Over the past four months, I have been keeping busy working with my brother [Jonathan Kelley](http://be.net/jonathankelley), [Shane Leonard](http://uk.linkedin.com/in/shaneleonard) and [Mark Stratmann](http://http://mark.stratmann.me/) on building [Stockflare](https://stockflare.com).

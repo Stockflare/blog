@@ -4,7 +4,7 @@ title:  "Quotes: Narrow Thinking"
 date:   2015-04-11 22:26:51
 categories: quote
 author: Shane Leonard
-image: /img/quote-narrowly-warren.jpg
+image: /images/quote-narrowly-warren.jpg
 ---
 
 Quote from [Warren Buffett](http://en.wikipedia.org/wiki/Warren_Buffett).

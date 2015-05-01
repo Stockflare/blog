@@ -4,7 +4,7 @@ title:  "Quotes: Patient Winning"
 date:   2015-01-14 20:13:13
 categories: quote
 author: Shane Leonard
-image: /img/quote-munger-waits.jpg
+image: /images/quote-munger-waits.jpg
 ---
 
 From [Charlie Munger](http://en.wikipedia.org/wiki/Charlie_Munger).

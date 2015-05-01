@@ -4,7 +4,7 @@ title:  "Quotes: Money Talk"
 date:   2014-10-18 10:23:41
 categories: quote
 author: Shane Leonard
-image: /img/quote-armour-humor.jpg
+image: /images/quote-armour-humor.jpg
 ---
 
 From [Richard Armour](http://en.wikipedia.org/wiki/Richard_Armour), poet and satirist.

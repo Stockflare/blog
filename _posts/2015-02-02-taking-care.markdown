@@ -4,7 +4,7 @@ title:  "Quotes: Taking Care"
 date:   2015-02-02 10:31:09
 categories: quote
 author: Shane Leonard
-image: /img/quote-taking-care.jpg
+image: /images/quote-taking-care.jpg
 ---
 
 From [Bob Jones](http://en.wikipedia.org/wiki/Bob_Jones_(businessman)), property mogul.

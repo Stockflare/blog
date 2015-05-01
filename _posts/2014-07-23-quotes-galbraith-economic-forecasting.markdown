@@ -4,7 +4,7 @@ title:  "Quotes: Forecasting Stocks"
 date:   2014-07-23 11:08:22
 categories: quote
 author: Shane Leonard
-image: /img/quote-galbraith-economic-forecasting.jpg
+image: /images/quote-galbraith-economic-forecasting.jpg
 ---
 
 From [JK Galbraith](http://en.wikipedia.org/wiki/John_Kenneth_Galbraith), Harvard Professor and advisor to President Kennedy.

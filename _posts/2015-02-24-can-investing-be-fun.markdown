@@ -2,6 +2,7 @@
 layout: post
 title:  "Can Investing Be Fun?"
 date:   2015-02-24 12:12:12
+hidePostImage: true
 categories: blog
 author: David Kelley
 image: http://i.imgur.com/6RKdKha.gif

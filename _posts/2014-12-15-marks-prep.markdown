@@ -4,7 +4,7 @@ title:  "Quotes: Marks Prep"
 date:   2014-12-15 18:02:09
 categories: quote
 author: Shane Leonard
-image: /img/quote-marks-prep.jpg
+image: /images/quote-marks-prep.jpg
 ---
 
 From [Howard Marks](http://en.wikipedia.org/wiki/Howard_Marks_%28investor%29), co-founder of [Oaktree Capital](http://www.oaktreecapital.com/) and author of [The Most Important Thing: Uncommon Sense for the Thoughtful Investor](http://www.amazon.com/The-Most-Important-Thing-Thoughtful/dp/0231153686).

@@ -4,7 +4,7 @@ title:  "Quotes: Puzzling Numbers"
 date:   2014-09-08 13:41:12
 categories: quote
 author: Shane Leonard
-image: /img/quote-buffett-accounts.jpg
+image: /images/quote-buffett-accounts.jpg
 ---
 
 From Warren Buffett.

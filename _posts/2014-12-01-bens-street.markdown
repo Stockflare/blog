@@ -4,7 +4,7 @@ title:  "Quotes: Wall Street Repeat"
 date:   2014-12-01 18:25:39
 categories: quote
 author: Shane Leonard
-image: /img/quote-bens-street.jpg
+image: /images/quote-bens-street.jpg
 ---
 
 From [Ben Graham](http://en.wikipedia.org/wiki/Benjamin_Graham), the *father* of the financial analyst industry.

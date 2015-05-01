@@ -1,66 +1,19 @@
 ---
 layout: default
 ---
-<meta property="og:title" content="{{ page.title }}" />
-<meta property="og:url" content="{{ page.url }}" />
-<meta property="og:image" content="{{ page.image }}" />
-<meta property="og:description" content="Stockflare helps you find great stock ideas" />
+<div id="post-page">
 
-<div class="inner-post-header">
-	<a href="http://www.blog.stockflare.com"><img src="/img/layout/logo-inpost.png"/></a>
-</div>
+  <div class="small-xs-padding no-xs-bottom-padding">
+    <h2 class="nested-text-dark micro-xs-bottom-margin">{{ page.title }}</h2>
+    <h6 class="text-bright">By {{ page.author }} on {{ page.date | date: "%b %-d, %Y" }}</h6>
+  </div>
 
-<div class="inner-post-container">
+  <div class="widget post-content-widget small-xs-margin no-xs-bottom-margin">
+    {% unless page.hidePostImage %}
+    <img src="{{page.image}}" />
+    {% endunless %}
 
-	<div class="container">
-
-		<div class="row">
-
-			<div class="col-md-8 col-md-offset-2 post-info">
-				<h1>{{ page.title }}</h1>
-				<p class="meta">Created On {{ page.date | date: "%b %-d, %Y" }}{% if page.author %}, By {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-			</div>
-
-		</div>
-
-		{% unless page.hidePostImage %}
-		<div class="row">
-			<div class="col-md-8 col-md-offset-2">
-				<div class="img-inpost"><img src="{{ page.image }}"/></div>
-			</div>
-		</div>
-		{% endunless %}
-
-		<div class="row">
-			<div class="col-md-8 col-md-offset-2">
-			  <article class="post-content">
-			  	{{ content }}
-			  </article>
-			</div>
-		</div>
-
-
-		<div class="row">
-			<div class="col-md-8 col-md-offset-2">
-				<div id="disqus_thread"></div>
-				<script type="text/javascript">
-				/* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-				var disqus_shortname = 'stockflareblog'; // required: replace example with your forum shortname
-
-				/* * * DON'T EDIT BELOW THIS LINE * * */
-				(function() {
-				var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-				dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-				(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-				})();
-				</script>
-				<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-				<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-		  </div>
-		</div>
-
-
-
-	</div>
+    {{content}}
+  </div>
 
 </div>

@@ -4,7 +4,7 @@ title:  "Quotes: Long Time Right"
 date:   2014-11-07 21:33:23
 categories: quote
 author: Shane Leonard
-image: /img/quote-chanos-right.jpg
+image: /images/quote-chanos-right.jpg
 ---
 
 From [Jim Chanos](http://en.wikipedia.org/wiki/James_Chanos), founder and president of Kynikos Associates.

@@ -4,7 +4,7 @@ title:  "Quotes: What's Behind"
 date:   2015-01-06 21:02:09
 categories: quote
 author: Shane Leonard
-image: /img/quote-lynch-behind.jpg
+image: /images/quote-lynch-behind.jpg
 ---
 
 From [Peter Lynch](http://en.wikipedia.org/wiki/Peter_Lynch).

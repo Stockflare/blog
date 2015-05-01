@@ -4,7 +4,7 @@ title:  "Quotes: Who's Fault"
 date:   2014-09-04 13:31:29
 categories: quote
 author: Shane Leonard
-image: /img/quote-chanos-blame.jpg
+image: /images/quote-chanos-blame.jpg
 ---
 
 From [James Chanos](http://en.wikipedia.org/wiki/James_Chanos), a legend in short selling.

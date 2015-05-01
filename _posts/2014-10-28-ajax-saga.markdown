@@ -4,7 +4,7 @@ title:  "The Great Ajax SEO Saga"
 date:   2014-10-28 22:00:03
 categories: quote
 author: Mark Stratmann
-image: /img/google-crawler.png
+image: /images/google-crawler.png
 ---
 
 # The great Ajax SEO Saga

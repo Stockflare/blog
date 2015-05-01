@@ -4,7 +4,7 @@ title:  "Quotes: Everyone's Smart"
 date:   2015-03-24 15:01:59
 categories: quote
 author: Shane Leonard
-image: /img/quote-buyers-sellers.jpg
+image: /images/quote-buyers-sellers.jpg
 ---
 
 Quote from [William Feather](http://en.wikipedia.org/wiki/William_Feather), author, publisher and wit!

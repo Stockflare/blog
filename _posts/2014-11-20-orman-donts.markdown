@@ -4,7 +4,7 @@ title:  "Quotes: Nothing Better"
 date:   2014-11-20 22:15:29
 categories: quote
 author: Shane Leonard
-image: /img/quote-orman-donts.jpg
+image: /images/quote-orman-donts.jpg
 ---
 
 From [Suze Orman](http://en.wikipedia.org/wiki/Suze_Orman) financial guru and tv celeb.

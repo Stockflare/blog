@@ -4,7 +4,7 @@ title:  "Quotes: A Baruchian Profit"
 date:   2014-07-14 15:19:05
 categories: quote
 author: Shane Leonard
-image: /img/quote-bernard-baruch-profit.jpg
+image: /images/quote-bernard-baruch-profit.jpg
 ---
 
 From the "Lone Wolf of Wall Street". [Baruch](http://en.wikipedia.org/wiki/Bernard_Baruch) was a key advisor to President Roosevelt during World War II.

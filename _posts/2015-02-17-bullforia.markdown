@@ -4,7 +4,7 @@ title:  "Quotes: Bullforia"
 date:   2015-02-17 10:31:09
 categories: quote
 author: Shane Leonard
-image: /img/quote-bullforia.jpg
+image: /images/quote-bullforia.jpg
 ---
 
 From [Sir John Templeton](http://en.wikipedia.org/wiki/John_Templeton).

@@ -4,7 +4,7 @@ title:  "Quotes: Gekko's Fools"
 date:   2014-09-10 16:01:54
 categories: quote
 author: Shane Leonard
-image: /img/quote-gekko-fools.jpg
+image: /images/quote-gekko-fools.jpg
 ---
 
 From [Gordon Gekko](http://en.wikipedia.org/wiki/Gordon_Gekko) the Oscar winning Michael Douglas character in [Wall Street](http://en.wikipedia.org/wiki/Wall_Street_(1987_film)).

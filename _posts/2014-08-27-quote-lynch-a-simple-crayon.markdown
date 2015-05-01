@@ -4,7 +4,7 @@ title:  "Quotes: Crayon Quality"
 date:   2014-08-27 16:04:17
 categories: quote
 author: Shane Leonard
-image: /img/quote-lynch-a-simple-crayon.jpg
+image: /images/quote-lynch-a-simple-crayon.jpg
 ---
 
 From [Peter Lynch](http://en.wikipedia.org/wiki/Peter_Lynch). Lynch was one of the most successful money managers of the 20th Century.

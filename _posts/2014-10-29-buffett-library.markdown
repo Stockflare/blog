@@ -4,7 +4,7 @@ title:  "Quotes: Rich Librarians"
 date:   2014-10-29 17:09:52
 categories: quote
 author: Shane Leonard
-image: /img/quote-buffett-library.jpg
+image: /images/quote-buffett-library.jpg
 ---
 
 From Warren Buffett.

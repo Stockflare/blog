@@ -11,7 +11,7 @@ It's been an exciting 2014, with Stockflare launching at the end of September, a
 
 Here's what the last 3 months looked like. These are the user figures for each month. With nice reviews at [ProductHunt](http://www.producthunt.com/posts/stockflare), [DesignerNews](https://news.layervault.com/stories/40122-site-design-stockflares-new-landing-page), [Awwwards](http://www.awwwards.com/best-websites/stockflare/) and especially at [LifeHacker](http://twocents.lifehacker.com/stockflare-simplifies-stock-market-data-to-make-investi-1672035079) helping us reach lots of new users. 
 
-![User numbers](/img/user-numbers-Dec-2014.png "User numbers")
+![User numbers](/images/user-numbers-Dec-2014.png "User numbers")
 
 Better still, if we look at the underlying statistics, in terms of sessions and pageviews we are really happy that:
 
@@ -20,11 +20,11 @@ Better still, if we look at the underlying statistics, in terms of sessions and 
 * Time of the site is growing
 * And the bounce rate has declined dramatically
 
-![Usage Stats](/img/Detailed-Stats-Dec-2014.png "Usage Stats")
+![Usage Stats](/images/Detailed-Stats-Dec-2014.png "Usage Stats")
 
 The amazing cut in the bounce rate, is entirely driven by our [new landing page](https://stockflare.com/#landing). Please check it out and let us know what you think.
 
-![Landing Page](/img/Landing-page-Dec-2014.png "Landing Page")
+![Landing Page](/images/Landing-page-Dec-2014.png "Landing Page")
 
 *Aside:* and if you are wondering what "Users (Without C Language)" means, that's went we exclude bots and crawlers from the statistics. We only care to help humans pick stocks, not computers even if they are algo-traders!
 

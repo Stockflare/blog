@@ -4,7 +4,7 @@ title:  "Quotes: Irrationally Insolvent"
 date:   2014-11-12 17:43:45
 categories: quote
 author: Shane Leonard
-image: /img/quote-maynard-key.jpg
+image: /images/quote-maynard-key.jpg
 ---
 
 From [John Maynard Keynes](http://en.wikipedia.org/wiki/John_Maynard_Keynes) the famous economist and occasional stock speculator!

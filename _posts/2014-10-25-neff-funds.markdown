@@ -4,7 +4,7 @@ title:  "Quotes: Best To"
 date:   2014-10-25 13:57:12
 categories: quote
 author: Shane Leonard
-image: /img/quote-neff-two.jpg
+image: /images/quote-neff-two.jpg
 ---
 
 From [John Neff](http://en.wikipedia.org/wiki/John_Neff), whose Windsor fund beat the market for 30 years.

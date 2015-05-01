@@ -4,7 +4,7 @@ title:  "Quotes: Lottery Calls"
 date:   2015-04-01 22:26:51
 categories: quote
 author: Shane Leonard
-image: /img/quote-joel-tickets.jpg
+image: /images/quote-joel-tickets.jpg
 ---
 
 Quote from [Joel Greenblatt](http://en.wikipedia.org/wiki/Joel_Greenblatt), investor and author of [The Little Book That Beats the Market](http://www.amazon.com/Little-Book-Still-Beats-Market/dp/0470624159).

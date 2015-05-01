@@ -4,7 +4,7 @@ title:  "Quotes: Capone's Broker"
 date:   2014-09-02 12:12:57
 categories: quote
 author: Shane Leonard
-image: /img/quote-capones-broker.jpg
+image: /images/quote-capones-broker.jpg
 ---
 
 From [Al Capone](http://en.wikipedia.org/wiki/Al_Capone), the Chicago gangster.

@@ -4,7 +4,7 @@ title:  "Alibaba: What Do You Do On Day 2?"
 date:   2014-09-22 09:30:00
 categories: post
 author: Shane Leonard
-image: /img/library_logos_alibababv_large.png
+image: /images/library_logos_alibababv_large.png
 ---
 
 ### Summary
@@ -23,15 +23,15 @@ Let's look at the analysis.
 
 Firstly, on **valuation**, it isn't *cheap*.
 
-![Forward PE ratio](/img/BABA-valuation-Sept-22.png "Valuation")
+![Forward PE ratio](/images/BABA-valuation-Sept-22.png "Valuation")
 
 Secondly, on **fundamentals**, growth in *earnings*, isn't any better than its competitors.
 
-![Long-Term Earnings Growth](/img/BABA-growth-Sept-22.png "Growth")
+![Long-Term Earnings Growth](/images/BABA-growth-Sept-22.png "Growth")
 
 Thirdly, the 2 brokers that have published **research**, pre-IPO, have a *price target* below the 1st day's close.
 
-![Brokers' Consensus Target Price](/img/BABA-target-Sept-22.png "Target")
+![Brokers' Consensus Target Price](/images/BABA-target-Sept-22.png "Target")
 
 Though they clearly were fans at the IPO price of $68.
 

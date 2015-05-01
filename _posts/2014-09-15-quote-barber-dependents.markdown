@@ -4,7 +4,7 @@ title:  "Quotes: Independent Views"
 date:   2014-09-15 17:01:54
 categories: quote
 author: Shane Leonard
-image: /img/quote-barber-dependents.jpg
+image: /images/quote-barber-dependents.jpg
 ---
 
 From [Daniel S. Greenberg](http://en.wikipedia.org/wiki/Daniel_S._Greenberg), a journalistic wit.

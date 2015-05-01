@@ -4,7 +4,7 @@ title:  "Quotes: Bull Brains"
 date:   2014-08-21 12:23:42
 categories: quote
 author: Shane Leonard
-image: /img/quote-neill-bull-brains.jpg
+image: /images/quote-neill-bull-brains.jpg
 ---
 
 From the Sage of Saxtons River, [Humphrey B. Neill](http://www.businessinsider.com/the-sage-of-saxtons-river-2011-3). Neill wrote [The Art of Contrary Thinking](http://www.amazon.com/Art-Contrary-Thinking-Humphrey-Neill/dp/087004110X).

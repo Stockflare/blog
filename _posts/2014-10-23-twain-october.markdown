@@ -4,7 +4,7 @@ title:  "Quotes: October Speculation"
 date:   2014-10-23 13:45:03
 categories: quote
 author: Shane Leonard
-image: /img/quote-twain-october.jpg
+image: /images/quote-twain-october.jpg
 ---
 
 From [Mark Twain](http://en.wikipedia.org/wiki/Mark_Twain), author, wit and one-time bankrupt.

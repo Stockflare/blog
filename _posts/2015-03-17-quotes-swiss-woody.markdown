@@ -4,7 +4,7 @@ title:  "Quotes: Swiss Signs"
 date:   2015-03-17 12:43:25
 categories: quote
 author: Shane Leonard
-image: /img/quote-swiss-account.jpg
+image: /images/quote-swiss-account.jpg
 ---
 
 Quote from [Woody Allen](http://en.wikipedia.org/wiki/Woody_Allen):

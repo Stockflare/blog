@@ -4,7 +4,7 @@ title:  "Quotes: Time To Speculate"
 date:   2014-08-07 14:03:17
 categories: quote
 author: Shane Leonard
-image: /img/quote-twain-speculate.jpg
+image: /images/quote-twain-speculate.jpg
 ---
 
 From [Mark Twain](http://en.wikipedia.org/wiki/Mark_Twain), author and humorist.

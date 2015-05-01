@@ -4,7 +4,7 @@ title:  "Quotes: Wilde Mistakes"
 date:   2014-10-15 22:01:12
 categories: quote
 author: Shane Leonard
-image: /img/quote-wilde-mistakes.jpg
+image: /images/quote-wilde-mistakes.jpg
 ---
 
 From [Oscar Wilde](http://en.wikipedia.org/wiki/Oscar_Wilde), playwright and poet, general wit.

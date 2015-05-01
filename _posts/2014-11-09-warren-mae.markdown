@@ -4,7 +4,7 @@ title:  "Quotes: Concentrated Warren"
 date:   2014-11-09 22:41:13
 categories: quote
 author: Shane Leonard
-image: /img/quote-warren-mae.jpg
+image: /images/quote-warren-mae.jpg
 ---
 
 From Warren Buffett on [Mae West](http://en.wikipedia.org/wiki/Mae_West)ian investing!
