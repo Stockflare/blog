@@ -16,7 +16,7 @@ Let's cut to the chase. And list the 4 major changes:
 0. A refreshing new design
 0. Introducing our "Explore" service
 0. Major update to our Watchlists
-0. More detailled analysis behind every stock
+0. More detailed analysis behind every stock
 
 ## Explore
 
