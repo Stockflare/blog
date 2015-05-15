@@ -7,7 +7,7 @@ author: Shane Leonard
 image: /images/quote-roys-love.jpg
 ---
 
-Quote from [Roy Neuberger](http://en.wikipedia.org/wiki/Roy_Neuberger), co-founder of Beuberger Berman.
+Quote from [Roy Neuberger](http://en.wikipedia.org/wiki/Roy_Neuberger), co-founder of Neuberger Berman.
 
 > Stay in love with a stock until it gets overvalued, then let somebody else fall in love with it.
 
