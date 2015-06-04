@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Quotes: Dealer Research"
-date:   2015-06-04 14:143:32
+date:   2015-06-04 14:43:32
 categories: quote
 author: Shane Leonard
 image: /images/quote-jim-cars.jpg
