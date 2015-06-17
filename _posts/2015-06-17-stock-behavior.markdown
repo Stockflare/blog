@@ -7,7 +7,7 @@ author: Shane Leonard
 image: /images/quote-chan-whim.jpg
 ---
 
-Quote from Ken Chan.
+Quote from Ken Chang, journalist.
 
 > The stock market is the combined behavior of thousands of people responding to information, misinformation and whim.
 
