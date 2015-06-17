@@ -9,7 +9,7 @@ image: /images/quote-chan-whim.jpg
 
 Quote from Ken Chan.
 
-> The stock market is te combined behavior of thousands of people responding to information, misinformation and whim.
+> The stock market is the combined behavior of thousands of people responding to information, misinformation and whim.
 
 So it's a combination of fact fiction and opinion!
 
