@@ -4,7 +4,7 @@ title:  "PRESS RELEASE: $700k Seed Round Completes"
 date:   2015-08-24 16:35:07
 categories: blog
 author: Shane Leonard
-image: http://i.imgur.com/6EM6BZg.gif
+image: http://i.imgur.com/ClcEIQ9.gif
 ---
 
 # Press release – for immediate publication
