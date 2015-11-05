@@ -4,7 +4,7 @@ title:  "Are banks really joining the blockchain bandwagon?"
 date:   2015-10-23 10:11:12
 categories: blog
 author: Shane Leonard
-image: http://i.imgur.com/mE7jaBl.gif
+image: http://i.imgur.com/8oENVsA.gif
 ---
 
 ### This post first appeared on [Medium](https://medium.com/@stockflare/are-banks-really-joining-the-blockchain-bandwagon-2c1fbeaf48e)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "PRESS RELEASE: Stockflare Completes $700k Seed Round"
-date:   2015-10-05 06:05:04
+date:   2015-11-05 06:05:04
 categories: blog
 author: Shane Leonard
 image: http://i.imgur.com/6EM6BZg.gif
