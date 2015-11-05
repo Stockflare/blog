@@ -1,0 +1,152 @@
+---
+layout: post
+title:  "TeamLCIF: Getting London VCs Moving"
+date:   2015-09-22 10:09:08
+categories: blog
+author: Shane Leonard
+image: http://i.imgur.com/mE7jaBl.gif
+---
+
+### This post first appeared on [Medium](https://medium.com/@stockflare/team-lcif-getting-london-vcs-moving-e75f5f4946f3)
+
+# TeamLCIF: Getting London VCs Moving
+
+## A who’s who in the London Co-Investment Fund ecosystem
+
+European startups often whine about the lack of seed capital they can tap into. Sure, there are hundreds of venture capitalists in London, but let’s face it, London’s not “the Valley”.
+
+The typical experience for entrepreneurs is a meeting with an ex-banker or consultant who’s never worked in a startup. The VC asks for metrics and proof of traction and the entrepreneur is deflated that the VC doesn’t buy into their vision. The inevitable conclusion is that the startup is too early stage for them. The entrepreneur goes home, disappointed and slates the VC to his startup buddies.
+
+“Grow up”, I say. Don’t blame the VCs. They are custodians of other people’s money. It isn’t “the Valley” where hundreds of people have created billions of dollars of wealth, and are now pouring it back into the next generation of entrepreneurs. You can reel off Europe’s big success stories in an instant. They include: AO, ARM, Asos, Autonomy, Betfair, Booking.com, Iliad, Just-Eat, King, Moneysupermarket, MySQL, Ocado, SAP, Skype, Supercell, TomTom, Waze, Yoox and Zoopla.
+
+## Filling the Vacuum
+
+The crunch point for startups seems to be at the seed level. But there are a few avenues for entrepreneurs to pursue. Foremost is the collective of accelerators & pre-seed funds in London, who’ll give a startup the ability to run on fumes. Notable firms include: Seedcamp, Startupbootcamp, Techstars and Wayra.
+
+As good as Seedcamp’s pre-seed fund and the accelerators are, they are not silver bullets. First time entrepreneurs need their own source of funding. Typically from friends and family. If you don’t have the self-belief to tap your own network, then you’ll probably find that others won’t have the belief in you either. Perception is almost as important as reality.
+
+## The Unsung Hero
+
+In this “tough” environment, there is an unsung hero for early stage start-ups. It’s the London Co-Investment Fund. And shockingly, it’s got little mainstream press. Imagine a £25m fund explicitly designed to help early stage businesses in London, backed by the London Mayor’s Office, working with 10 of London’s best early stage investors. It’s not too good to be true. But it is complicated, though not in a bad way.
+
+It all started six years ago, when John Spindler persuaded the European Union & the London Mayor’s office to back Capital Enterprise, an organisation bringing all the universities, accelerators and VCs of London together. Next, he launched the Capital Accelerator Program in 2013, which has paid for staff at London VC firms and helped over 130 startups raise money. CAP has injected both dynamism into London’s VC community and paid for additional resources to vet and support early stage start-ups.
+
+But increasing the resources and expertise at London’s VCs was never going to be enough. Thus the creation of the London Co-Investment Fund in partnership with Funding London. In December 2014, after 18 months of negotiation, Boris Johnson took to the stage at City Hall to announce the investment of the city’s money in the fund. Now, London based startups can get a significant boost to their funding by getting the London Co-Investment Fund to invest in them alongside one of the founding VC partners.
+Roll forward to September 2015, just 10 months later, and 25 businesses have received funding. That’s more than any single early stage VC firm in London. Note, these startups have successfully raised a total of £18 million, with the London Co-Investment Fund contributing £3.5 million.
+
+## What’s the Catch?
+
+Yes, there are multiple catches and complications, but none should deter you from wanting to play a part in the London Co-Investment Fund’s eco-system.
+
+Firstly, the fund doesn’t exist as a stand alone entity. It was co-founded by John Spindler’s Capital Enterprise and Maggie Rodriguez-Piza’s Funding London. Capital Enterprise review all the applications and Funding London manages the actual fund. On a day-to-day basis, Puneet Raj Bhatia is the man in charge.
+
+Secondly, it’s a co-investment fund. If one of the 10 VC partners isn’t interested in your start-up, then the London Co-Investment Fund can’t play. Why? The fund are custodians of government money. So they have to leave the business negotiation to the VCs. It’s what protects us all from falling foul of the EU’s state-subsidy rules.
+
+Thirdly, it’s government money. So the Greater London Authority needs to know what’s happening, i.e. they have information rights. And top of their agenda is seeing job creation in London.
+
+Fourth, the London Co-Investment Fund takes 25% of any fundraising. The whole aim of the fund is to encourage private investment in London based start-ups. Private money must take the lead, rightly so. Remember, the first 25 start-ups have raised a total of £18m, with £14.5m coming from the VC partners and £3.5m from the fund.
+
+Finally, bring your own money to the table. If you don’t have friends and family or a group of angels willing to be the first 25%+ of your fund raise, then you are probably dreaming. Yes, as a first time entrepreneur, you are dreaming and wasting your time.
+
+## Getting into the eco-system
+
+So there are two gatekeepers: Capital Enterprise and the VCs. To get to Capital Enterprise, you need to fill in the online application form. Then John and his colleagues, Rosa Glover and Sia Georgieva will get back to you with feedback.
+
+If you’re the right fit, you get invited to join their “Green Light Programme”. That’s a weekly mentoring evening over 8 weeks, where you meet with the different VCs and the other illuminati of the London VC community.
+
+For example, Mike Butcher of TechCrunch gave a brilliant talk on how to interact with journalists and Ash Puri of Episode1 gave an insiders view of Seed funding.
+
+Getting to the VCs can be via the Greenlight Programme or you can go direct. To some extent, meeting the VCs on your own, may be a plus. That way you stand out. You’re a a startup they know independent of the London Co-Investment Fund.
+
+## The Trailblazers
+
+So who are the VCs and what investments have they done with the London Co-Investment Fund already?
+Back in December 2014, 5 VCs joined the eco-system: AngelLabs; Crowdcube; Firestartr; London Business Angels; and Playfair Capital. Yes, yes, Crowdcube isn’t a VC, I know. Though a couple of the other partners aren’t traditional VCs either. They’re more like angel networks.
+
+### AngelLabs
+
+AngelLabs is a vehicle for over 30 angel investors, pooling their resources together to source deals. Andrew Fullerton, Kevin Chong and Maria Dramalioti-Taylor run the show. They vet the deals and present them to their angels. It’s an a la carte arrangement. With 29 companies in the portfolio today, the Lab is working well!
+
+Since joining the eco-system, AngelLab has co-invested in 4 startups with the London Co-Investment Fund, including Chaser & We Now Comply. Both are B2B businesses, though AngelLabs doesn’t have a narrow remit.
+
+### Crowdcube
+
+Crowdcube’s the UK’s leader in crowdfunding having over 200,000 investors on it’s books, and having raised over £100m for 300 companies. Stuart Nicol leads the team that vet’s the London Co-Investment Fund deals.
+
+To date five deals have successfully raised funds via Crowdcube, including Chirp, Droplet, Gamesgrabr, Powervault & Shoot Gardening. Clearly the range of investments is broad, but there is one common theme, are they businesses that the “crowd” can connect with emotionally. So complex technology and B2B businesses are less obvious for this partner.
+
+### Firestartr
+
+Firestartr has 20 startups in its portfolio today. Axel Wehr is the Principal from Firestartr that you’re most likely to meet at any of the fund’s events. Like the other partners, Firestartr doesn’t have a formal fund structure but has a network of angels and investors that back their deals. Firestartr, as the name implies, is very much a seed-stage platform and they like to emphasis that their investors are domain experts that play a valuable role in the companies they back.
+
+To date, Firestartr’s co-invested in 5 startups with the London Co-Investment Fund, including Big Data for Humans, Tritto, Urban Massage & We Are Colony. Here you can see a “platform” theme.
+
+### London Business Angels
+
+London Business Angels has been going for over 30 years and has one of the largest networks of angel investors in the UK.
+With the London Co-Investment Fund, they’ve backed 9 companies including Captive Media, Desktop Genetics, FlatClub, LaSalle Education, & Step Jockey. This puts them out in front, as the leading partner for the fund. A position they can probably maintain if they remain interested in a broad range of start-ups.
+
+### Playfair Capital
+
+Playfair Capital are the cool kids of the eco-system. Based at Warner Yard they rub shoulders with TechStars and it’s UK cohort. The whole setup has the same energy as Passion Capital’s White Bear Yard. Both eco-systems in their own right.
+
+Taking the glass elevator to the “investors floor”, overlooking the startups below, is a slightly unnerving experience. Though the smile of Playfair’s Joe Charlesworth and relaxed style of Fede Pirzio-Biroli immediately put any jitters to rest. As the firm’s name implies, they are on your side, easy to work with and startup friendly.
+
+With the London Co-Investment Fund they’ve co-invested in Dojo & Pronto Technology. Both are B2C firms, though Playfair has plenty of B2B and B2B2C startups in it’s 30+ portfolio.
+
+## Swelling the Ranks
+
+This September, the eco-system doubled in size. Five new VCs joined the fund’s ecosystem: Craigie Capital; Downing Ventures; EC1 Capital; Forward Partners, and; Seedcamp. Imagine, one application form getting you on the fast track with 10 of London’s best early stage VCs?
+
+### Craigie Capital
+
+Alasdair McPherson is the point man for Craigie Capital. An angel investor in his own right, Alasdair’s got a love for fintech. He’s regularly seen mentoring at Barclays Techstar and Startupbootcamp. Though the team at Craigie Capital isn’t focused on fintech. They are fans of B2B models including SaaS, Big Data, Security and plays on regulatory change.
+
+### Downing Ventures
+
+Downing Ventures is a part of Downing LLP who manage a number of Venture Capital Trusts, Enterprise Investment Schemes, OEICs, and other financial vehicles. Matt Penneycard is the point man. With 20 startups in their portfolio today, there isn’t a narrow focus with both B2C and B2B plays welcome.
+
+### EC1 Capital
+
+EC1 is structured as a fund, and has an anchor investor from the Middle East. Though they bring in co-investors to each deal, with a focus on adding domain expertise as well as tapping into their network of angels. Yannick Roux is the point man. In 3 years they’ve funded 25 companies at the seed level. The portfolio has a broad make up.
+
+### Forward Partners
+
+Forward Partners’ founder, Nic Brisbourne has been a VC in London since before the dotcom boom & bust. He’s got one of the more thoughtful blogs in the UK’s venture community. But unlike the other partners, Forward is not a generalist. They focus on ecommerce companies and have a dedicated team that help the 30 companies they’ve backed scale.
+
+### Seedcamp
+
+You’d have to be disconnected from the Internet to not have heard of Seedcamp. Carlos and Reshma have been running this pre-seed / seed fund since 2007. It’s probably’s best platform of capital, connections and mentoring. They are well connected to Index Ventures and other large venture firms. And to date, Seedcamp has backed over 200 start-ups with cash and they’ve mentored thousands more.
+
+If you’ve not applied to Seedcamp Week, even to get exposure to their army of mentors, you are doing your startup a disservice.
+But the obvious question is, why does Seedcamp want to join the London Co-Investment Fund’s eco-system? Simple, they’ve now got a €20 million fund. Their model has evolved. Seedcamp is no longer just an accelerator getting startups off the ground. Today, it’s a true pre-seed / seed fund. The really early-stage teams they back can grow with Seedcamp through the Seed round, and possible beyond. Working with the London Co-Investment Fund is a good way for Seedcamp to put some of its new €20m fund to work. Tom Wilson’s the point man.
+
+## Who’s Missing?
+
+There are a number of obvious VCs that are not in the eco-system: Accel; Amadeus; Balderton; DN; Index Ventures, Notion; Octopus; Passion; ProFounders, and; WhiteStar; come to mind. Then there are the crowdfunding platforms Seedrs and Syndicate Room.
+
+Why? As far as I can tell it’s a combination of three factors.
+
+Firstly, many of these VCs have access to the deal flow themselves. No founder ignores them and should try to pitch them directly. They are well staffed and can deal with the volume. As such, they just don’t need the London Co-Investment Fund to act as a gatekeeper and co-funder.
+
+Secondly, they are structured as funds, with committed capital, often running to the hundreds of millions of dollars. They lead investments themselves. There isn’t any need to have someone else’s money in the deal, especially government money, benign as that money may be.
+
+And finally, seed rounds are the exception, not the rule for these firms. Face it, if you’ve $100m to invest a year, do you want to write twenty cheques of $5m or two hundred cheques of $500k. Which model is more scalable?
+
+## Making a Difference
+
+The London Co-Investment Fund has been operational for ten months. Over 700 start-ups have applied to the programme. Half of those start-ups contacted the fund directly. Half came via the VC partners. The fund is already making a valuable impact with the fund already backing 25 startups. It’s no wonder the eco-system has just doubled in size.
+
+While the UK press are out chasing unicorns, London’s startup community is starting to notice an important change. Local government isn’t just talking about London’s tech cluster. It’s putting money to work. The goal for the Mayor’s office is to back 150 startups over 3 years, via the London Co-Investment Fund, creating up to 2,600 new jobs. That’s one investment a week.
+
+So what are you waiting for. [Click here](https://lcif.co) and get your startup into the London Co-Investment Fund’s ecosystem. We did and we couldn’t be happier.
+
+***
+
+Please drop me a message [@shaneleonard121](https://twitter.com/shaneleonard121) or the full team [@stockflare](https://twitter.com/stockflare).
+
+Shane Leonard
+
+Managing Director
+
+Stockflare
