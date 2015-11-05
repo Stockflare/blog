@@ -4,7 +4,7 @@ title:  "When the cash machine is broke"
 date:   2015-10-10 10:09:08
 categories: blog
 author: Shane Leonard
-image: http://i.imgur.com/mE7jaBl.gif
+image: http://i.imgur.com/jZ8x7Q7.gif
 ---
 
 ### This post first appeared on [Medium](https://medium.com/@stockflare/when-the-cash-machine-is-broke-9f4fcc3e0610)
