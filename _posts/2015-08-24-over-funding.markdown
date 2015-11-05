@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "PRESS RELEASE: Stockflare overfunds in just 2 weeks"
+title:  "PRESS RELEASE: Stockflare overfunds in just 2 weeks "
 date:   2015-08-24 16:35:07
 categories: blog
 author: Shane Leonard
