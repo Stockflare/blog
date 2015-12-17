@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Quotes: Probably Enemy"
+title:  "Quotes: Probable Enemy"
 date:   2015-12-17 10:11:11
 categories: quote
 author: Shane Leonard
